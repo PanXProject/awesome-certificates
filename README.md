@@ -1,5 +1,5 @@
-# Awesome Free Dev Courses [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-List of free dev courses with certificates &amp; badges.
+# Awesome Courses [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+Currently an awesome list of free dev courses with certificates &amp; badges.
 🏅= Digital Badges 🏆 = Certificate of Completion
 <br></br>
 | Course Name | Course Provider | Level | Hours | Badge |
