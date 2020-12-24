@@ -1,4 +1,4 @@
-# awesome-courses
+# Awesome Free Dev Courses [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 List of free dev courses with certificates &amp; badges.
 🏅= Digital Badges 🏆 = certificate of completion
 
