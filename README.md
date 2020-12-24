@@ -3,7 +3,7 @@ List of free dev courses with certificates &amp; badges.
 🏅= Digital Badges 🏆 = certificate of completion
 <br></br>
 | Course Name | Course Provider | Level | Hours | Badge |
-| ------------- |:-------------:|:-------------:|:-------------:| -----:|
+| ------------- |:-------------|:-------------|:-------------:| -----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
 | [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)| Cisco Networking Academy | Intermediate | 30 | [🏅](https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials)|
 | [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/ibm-skillsbuild/badge/cybersecurity-fundamentals) |
