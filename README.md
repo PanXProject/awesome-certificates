@@ -7,7 +7,7 @@ List of free dev courses with certificates &amp; badges.
 | ------------- |:-------------:|:-------------:|:-------------:| -----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
 | [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)| Cisco Networking Academy | Intermediate | 30 | [🏅](https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials)|
-| [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10 hours | [🏅](https://www.youracclaim.com/org/ibm-skillsbuild/badge/cybersecurity-fundamentals) |
+| [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/ibm-skillsbuild/badge/cybersecurity-fundamentals) |
 | [Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD) | IBM / SkillsBuild | Beginner | 10 | [🏅](https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals) |
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
@@ -35,7 +35,7 @@ List of free dev courses with certificates &amp; badges.
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
 | [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
-| [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM Developer Skills Network / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
+| [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
 | [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
