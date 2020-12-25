@@ -5,8 +5,8 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 
 ## Contents:
 - [Security](#security)
-- [Front-End](#frontend)
-- [Back-End](#backend)
+- [Front-End](#front-end)
+- [Back-End](#back-end)
 - [Blockchain](#blockchain)
 - [Data Analysis & Visualization](#data-analysis-and-visualization)
 - [Statistics](#statistics)
@@ -22,6 +22,11 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Theories & Concepts](#theory-concepts)
 
 ## Security
+## Front-End
+## Back-End
+## Blockchain
+## Data Analysis & Visulalization
+
 
 | Course Name | Course Provider | Level | Hours | Badge |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
