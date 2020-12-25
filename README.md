@@ -26,7 +26,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Theories & Concepts](#theories-and-concepts)
 
 ## Security
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
 | [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)| Cisco Networking Academy | Intermediate | 30 | [🏅](https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials)|
@@ -36,25 +36,25 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 
 
 ## Front-End
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp|Professional|300| 🏆|
 | [Front-End Libraries Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
 ## Back-End
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [APIs and Microservices Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy |Professional|42 | 🏆|
 
 ## Blockchain
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
 
 ## Data Analysis and Visualization
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
 | [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
@@ -64,12 +64,12 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 
 
 ## Statistics
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Statistics 101](https://cognitiveclass.ai/courses/statistics-101) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/statistics-101)|
 
 ## Data Science
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Data Science Methodologies](https://cognitiveclass.ai/courses/data-science-methodology-2) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-methodologies)|
 | [Data Science 101](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1)|
@@ -77,14 +77,14 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
 
 ## Big Data
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
 
 ## Machine and Deep Learning
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials)|
 | [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow)|
@@ -93,30 +93,30 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
 ## Networking
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
 
 ## Operating Systems
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    🏆 |
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
 
 ## Robotics and IoT
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/building-robots-with-tjbot)|
 
 ## Chatbots
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/how-to-build-a-chatbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1)|
 
 ## DevOps
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
@@ -125,29 +125,29 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 
 ## Programming Langauges
 ### C
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
 
 ### JavaScript
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
 ### R
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [R Essentials](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
 | [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
 
 ### Python
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
 | [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
 ## Theories and Concepts
-| Course Name | Course Provider | Level | Hours | Badge |
+| Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Quality Assurance Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) | Saylor Academy |Professional|52 | 🏆|
