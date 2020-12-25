@@ -25,7 +25,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 ## Front-End
 ## Back-End
 ## Blockchain
-## Data Analysis & Visulalization
+## Data Analysis & Visualization
 ## Statistics
 ## Data Science
 ## Big Data
@@ -35,7 +35,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 ## Robotics & IoT
 ## Chatbots
 ## DevOps
-## Programming Languages
+## Programming Langauges
 ## Theories & Concepts
 
 
