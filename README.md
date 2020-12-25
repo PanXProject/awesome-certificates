@@ -19,7 +19,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-langauges)
-    - [C++](#C++)
+    - [C++](#C)
     - [JavaScript](#javascript)
     - [R](#r)
     - [Python](#python)
@@ -30,7 +30,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
 | [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)| Cisco Networking Academy | Intermediate | 30 | [🏅](https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials)|
-| [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/ibm-skillsbuild/badge/cybersecurity-fundamentals) |
+| [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer) |
 | [Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD) | IBM / SkillsBuild | Beginner | 10 | [🏅](https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals) |
 | [Information Security Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
@@ -124,7 +124,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
 ## Programming Langauges
-### C++
+### C
 | Course Name | Course Provider | Level | Hours | Badge |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
@@ -150,7 +150,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | Course Name | Course Provider | Level | Hours | Badge |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Quality Assurance Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
-| [CS101: Introduction to Computer Science I](https://www.freecodecamp.org/learn/) | Saylor Academy |Professional|52 | 🏆|
+| [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) | Saylor Academy |Professional|52 | 🏆|
 | [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) | Saylor Academy |Professional|42 | 🏆|
 | [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) | Saylor Academy |Professional|38 | 🏆|
 | [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67) | Saylor Academy |Professional|44 | 🏆|
@@ -158,5 +158,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
 
 ## License 
+This project is under the [license.md].
 
 ## Contributing
+If you'd like to add a course or contribute, start by checking our [contributing.md] out.
