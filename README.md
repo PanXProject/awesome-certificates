@@ -2,7 +2,7 @@
 Currently an awesome list of free dev courses with certificates &amp; badges.</br>
 🏅= Digital Badges 🏆 = Certificate of Completion
 <br></br>
-Contents:
+##Contents:
 - [Security](#security)
 - [Front-End](#frontend)
 - [Back-End](#backend)
@@ -20,6 +20,7 @@ Contents:
 - [Programming Languages](#programming-langauge)
 - [Theories & Concepts](#theory-concepts)
 
+##Security
 
 | Course Name | Course Provider | Level | Hours | Badge |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
