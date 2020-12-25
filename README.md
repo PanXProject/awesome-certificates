@@ -19,10 +19,10 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-langauges)
---[C++](#c++)
---[JavaScript](#javascript)
---[R](#r)
---[Python](#python)
+    -[C++](#c++)
+    -[JavaScript](#javascript)
+    -[R](#r)
+    -[Python](#python)
 - [Theories & Concepts](#theories-and-concepts)
 
 ## Security
