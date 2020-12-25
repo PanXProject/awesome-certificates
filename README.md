@@ -2,6 +2,25 @@
 Currently an awesome list of free dev courses with certificates &amp; badges.</br>
 🏅= Digital Badges 🏆 = Certificate of Completion
 <br></br>
+Contents:
+- [Security](#security)
+- [Front-End](#frontend)
+- [Back-End](#backend)
+- [Blockchain](#blockchain)
+- [Data Analysis & Visualization](#data-analysis-and-visualization)
+- [Statistics](#statistics)
+- [Data Science](#data-science)
+- [Big Data](#big-data)
+- [Deep Learning](#deep-learning)
+- [Networking](#networking)
+- [Operating Systems](#operating-systems)
+- [Robotics & IoT](#robotics-iot)
+- [Chatbots](#chatbots)
+- [DevOps](#devops)
+- [Programming Languages](#programming-langauge)
+- [Theories & Concepts](#theory-concepts)
+
+
 | Course Name | Course Provider | Level | Hours | Badge |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
