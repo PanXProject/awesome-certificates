@@ -8,24 +8,35 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Front-End](#front-end)
 - [Back-End](#back-end)
 - [Blockchain](#blockchain)
-- [Data Analysis & Visualization](#data-analysis-and-visualization)
+- [Data Analysis & Visualization](#data-analysis-&-visualization)
 - [Statistics](#statistics)
 - [Data Science](#data-science)
 - [Big Data](#big-data)
 - [Deep Learning](#deep-learning)
 - [Networking](#networking)
 - [Operating Systems](#operating-systems)
-- [Robotics & IoT](#robotics-iot)
+- [Robotics & IoT](#robotics-&-iot)
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-langauge)
-- [Theories & Concepts](#theory-concepts)
+- [Theories & Concepts](#theory-&-concepts)
 
 ## Security
 ## Front-End
 ## Back-End
 ## Blockchain
 ## Data Analysis & Visulalization
+## Statistics
+## Data Science
+## Big Data
+## Deep Learning
+## Networking
+## Operating Systems
+## Robotics & IoT
+## Chatbots
+## DevOps
+## Programming Languages
+## Theories & Concepts
 
 
 | Course Name | Course Provider | Level | Hours | Badge |
