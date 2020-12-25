@@ -8,7 +8,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Front-End](#front-end)
 - [Back-End](#back-end)
 - [Blockchain](#blockchain)
-- [Data Analysis & Visualization](#data-analysis-&-visualization)
+- [Data Analysis & Visualization](#data-analysis-&-Visualization)
 - [Statistics](#statistics)
 - [Data Science](#data-science)
 - [Big Data](#big-data)
@@ -19,7 +19,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-langauges)
-- [Theories & Concepts](#theories-&-concepts)
+- [Theories & Concepts](#theories-&-Concepts)
 
 ## Security
 ## Front-End
