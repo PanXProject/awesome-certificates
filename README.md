@@ -158,7 +158,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
 
 ## License 
-This project is under the [creative commons license](license).
+This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contributing
 If you'd like to contribute to this list, check out our [contribution steps here](contributing.md).
