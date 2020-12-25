@@ -18,8 +18,8 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Robotics & IoT](#robotics-&-iot)
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
-- [Programming Languages](#programming-langauge)
-- [Theories & Concepts](#theory-&-concepts)
+- [Programming Languages](#programming-langauges)
+- [Theories & Concepts](#theories-&-concepts)
 
 ## Security
 ## Front-End
