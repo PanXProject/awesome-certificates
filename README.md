@@ -1,3 +1,5 @@
+![Awesome Certificates](https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png)
+
 # 🏅 Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## What is this?
