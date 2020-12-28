@@ -1,5 +1,5 @@
-# Awesome Free Courses [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-Currently an awesome list of free dev courses with certificates &amp; badges.</br>
+# 🏅 Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+Currently an awesome list of courses with free certificates &amp; badges.</br>
 🏅= Digital Badges 🏆 = Certificate of Completion
 <br></br>
 
@@ -19,7 +19,7 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-langauges)
-    - [C++](#C)
+    - [C++](#c)
     - [JavaScript](#javascript)
     - [R](#r)
     - [Python](#python)
@@ -34,6 +34,8 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD) | IBM / SkillsBuild | Beginner | 10 | [🏅](https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals) |
 | [Information Security Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 
 ## Front-End
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -41,17 +43,23 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp|Professional|300| 🏆|
 | [Front-End Libraries Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Back-End
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [APIs and Microservices Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy |Professional|42 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Blockchain
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Data Analysis and Visualization
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -62,11 +70,15 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 
 ## Statistics
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Statistics 101](https://cognitiveclass.ai/courses/statistics-101) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/statistics-101)|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Data Science
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -76,12 +88,16 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | IBM / Cognitive Class |Beginner|4| [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-tools)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Big Data
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Machine and Deep Learning
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -92,10 +108,14 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Networking
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Operating Systems
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -104,16 +124,22 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Robotics and IoT
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/building-robots-with-tjbot)|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Chatbots
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/how-to-build-a-chatbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1)|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## DevOps
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -123,16 +149,23 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ## Programming Langauges
+
 ### C
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ### JavaScript
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ### R
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -140,11 +173,15 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [R Essentials](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
 | [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
 ### Python
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
 | [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -156,6 +193,16 @@ Currently an awesome list of free dev courses with certificates &amp; badges.</b
 | [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67) | Saylor Academy |Professional|44 | 🏆|
 | [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) | Saylor Academy |Professional|48 | 🏆|
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+
+## Other Awesome Lists
+- [Open Source Society University](https://github.com/ossu/computer-science)</br>
+The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development.
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)</br>
+This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+- [Books](https://github.com/learn-anything/books)</br> Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
+- [Learn to Program](https://github.com/karlhorky/learn-to-program)</br> This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
 
 ## License 
 This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
