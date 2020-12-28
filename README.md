@@ -196,7 +196,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) | Saylor Academy |Professional|48 | 🏆|
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/1612/1612741.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
+<img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Other Awesome Lists
 - [Open Source Society University](https://github.com/ossu/computer-science)</br>
