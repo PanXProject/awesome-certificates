@@ -16,7 +16,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 - [Statistics](#statistics)
 - [Data Science](#data-science)
 - [Big Data](#big-data)
-- [Deep Learning](#machine-and-deep-learning)
+- [Machine & Deep Learning](#machine-and-deep-learning)
 - [Networking](#networking)
 - [Operating Systems](#operating-systems)
 - [Robotics & IoT](#robotics-and-iot)
