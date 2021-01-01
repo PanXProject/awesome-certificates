@@ -8,26 +8,32 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 <br></br>
 
 ## Contents:
-- [Security](#security)
-- [Front-End](#front-end)
-- [Back-End](#back-end)
-- [Blockchain](#blockchain)
-- [Data Analysis & Visualization](#data-analysis-and-visualization)
-- [Statistics](#statistics)
-- [Data Science](#data-science)
-- [Big Data](#big-data)
-- [Machine & Deep Learning](#machine-and-deep-learning)
-- [Networking](#networking)
-- [Operating Systems](#operating-systems)
-- [Robotics & IoT](#robotics-and-iot)
-- [Chatbots](#chatbots)
-- [DevOps](#devops)
-- [Programming Languages](#programming-langauges)
-    - [C++](#c)
+- [🏅 Awesome Certificates ![Awesome](https://awesome.re)](#-awesome-certificates-)
+  - [What is this?](#what-is-this)
+  - [Contents:](#contents)
+  - [Security](#security)
+  - [Front-End](#front-end)
+  - [Back-End](#back-end)
+  - [Blockchain](#blockchain)
+  - [Data Analysis and Visualization](#data-analysis-and-visualization)
+  - [Statistics](#statistics)
+  - [Data Science](#data-science)
+  - [Big Data](#big-data)
+  - [Machine and Deep Learning](#machine-and-deep-learning)
+  - [Networking](#networking)
+  - [Operating Systems](#operating-systems)
+  - [Robotics and IoT](#robotics-and-iot)
+  - [Chatbots](#chatbots)
+  - [DevOps](#devops)
+  - [Programming Langauges](#programming-langauges)
+    - [C](#c)
     - [JavaScript](#javascript)
     - [R](#r)
     - [Python](#python)
-- [Theories & Concepts](#theories-and-concepts)
+  - [Theories and Concepts](#theories-and-concepts)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [License](#license)
+  - [Contributing](#contributing)
 
 ## Security
 | Course Name | Course Provider | Level | Hours | Reward |
@@ -111,6 +117,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | [Introduction to Machine Learning with Sound](https://cognitiveclass.ai/courses/machine-learning-sound/) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/introduction-to-machine-learning-with-sound)|
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
