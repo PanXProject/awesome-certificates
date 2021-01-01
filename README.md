@@ -8,9 +8,9 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 <br></br>
 
 ## Contents:
-- [🏅 Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-  - [What is this?](#what-is-this)
-  - [Contents:](#contents)
+- [__🏅 Awesome Certificates__](#-awesome-certificates-)
+  - [__What is this?__](#what-is-this)
+  - [__Contents:__](#contents)
     - [Security](#security)
     - [Front-End](#front-end)
     - [Back-End](#back-end)
@@ -31,9 +31,9 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
       - [R](#r)
       - [Python](#python)
     - [Theories and Concepts](#theories-and-concepts)
-    - [Other Awesome Lists](#other-awesome-lists)
-    - [License](#license)
-    - [Contributing](#contributing)
+  - [__Other Awesome Lists__](#other-awesome-lists)
+  - [__License__](#license)
+  - [__Contributing__](#contributing)
 
 ## Security
 | Course Name | Course Provider | Level | Hours | Reward |
