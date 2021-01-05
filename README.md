@@ -125,6 +125,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
+| [CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy | Intermediate | 60 | 🏆 |
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
