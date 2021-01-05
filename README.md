@@ -59,7 +59,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | Course Name | Course Provider | Level | Hours | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [APIs and Microservices Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
-| [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy |Professional|42 | 🏆|
+| [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93) | Saylor Academy |Professional|42 | 🏆|
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
