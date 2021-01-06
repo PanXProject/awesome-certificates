@@ -52,7 +52,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp|Professional|300| 🏆|
 | [Front-End Libraries Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
-| [Selenium 101](https://www.lambdatest.com/certifications/selenium-101) | LambadaTest | Beginner | 4 |🏆|
+| [Selenium 101](https://www.lambdatest.com/certifications/selenium-101) | LambdaTest | Beginner | 4 |🏆|
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
