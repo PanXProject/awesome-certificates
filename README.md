@@ -25,7 +25,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
     - [Robotics and IoT](#robotics-and-iot)
     - [Chatbots](#chatbots)
     - [DevOps](#devops)
-    - [Programming Langauges](#programming-langauges)
+    - [Programming Langauges](#programming-languages)
       - [C](#c)
       - [JavaScript](#javascript)
       - [R](#r)
