@@ -67,8 +67,19 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | [APIs and Microservices Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93) | Saylor Academy |Professional|42 | 🏆|
 | [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
-
-
+| [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
+| [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about) | MongoDB |Beginner| 2 | 🏆|
+| [MongoDB Cluster Adminstration](https://university.mongodb.com/courses/M103/about) | MongoDB |Beginner| 9.5 | 🏆|
+| [MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) | MongoDB |Beginner| 9 | 🏆|
+| [Crafting Conference Abstracts](https://university.mongodb.com/courses/T101/about) | MongoDB |Beginner| 1.5 | 🏆|
+| [Atlas Security](https://university.mongodb.com/courses/A300/about) | MongoDB |Beginner| 0.5 | 🏆|
+| [MongoDB Performance](https://university.mongodb.com/courses/M201/about) | MongoDB |Intermediate| 7 | 🏆|
+| [MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about) | MongoDB |Intermediate| 7.5 | 🏆|
+| [MongoDB for JavaScript Developers](https://university.mongodb.com/courses/M220JS/about) | MongoDB |Intermediate| 6.5 | 🏆|
+| [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about) | MongoDB |Intermediate| 6.5 | 🏆|
+| [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
+| [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
+| [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
