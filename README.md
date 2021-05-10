@@ -198,6 +198,7 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Java](https://www.hackerrank.com/skills-verification/java_basic) | HackerRank |Beginner| 1 | 🏆|
+
 <img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ### JavaScript
