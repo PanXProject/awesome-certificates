@@ -93,7 +93,7 @@ This list is opensource so all suggestions and pull requests are more than welco
 | [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
-| [Blockchain Technology: A Quick Introduction](https://learn.upgrad.com/course/1378) | Saylor Academy |Beginner| 10 | 🏆|
+| [Blockchain Technology: A Quick Introduction](https://learn.upgrad.com/course/1378) | Upgrad |Beginner| 10 | 🏆|
 
 
 
