@@ -44,6 +44,12 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer) |
 | [Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD) | IBM / SkillsBuild | Beginner | 10 | [🏅](https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals) |
 | [Information Security Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) | TryHackMe |Intermediate| 64 | 🏆|
+| [Cyber Defense](https://tryhackme.com/path/outline/blueteam) | TryHackMe | Intermediate | 48 | 🏆 |
+| [Red Teaming](https://tryhackme.com/path/outline/redteaming) | TryHackMe | Intermediate | 48 | 🏆 |
+| [Offensive Testing](https://tryhackme.com/path/outline/pentesting) | TryHackMe | Intermediate | 47 | 🏆 |
+| [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Easy | 51 | 🏆 |
+| [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Easy | 32 | 🏆 |
 
 
 ## Front-End
@@ -150,14 +156,12 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/building-robots-with-tjbot)|
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## Chatbots
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/how-to-build-a-chatbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1)|
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3860/3860229.svg" width="48" height="48"> or <img src="https://www.flaticon.com/svg/static/icons/svg/35/35432.svg" width="48" height="48">
 
 ## DevOps
 | Course Name | Course Provider | Level | Hour(s) | Reward |
