@@ -4,7 +4,7 @@
 
 ## What is this?
 Currently an awesome list of free IT courses with certificates &amp; badges on completion. 
-This list is opensource so all suggestions and pull requests are more than welcomed!
+This list is opensource so any suggestions and pull requests are more than welcome!
 
 </br>
 🏅= Digital Badges 🏆 = Certificate of Completion
