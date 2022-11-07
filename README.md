@@ -3,7 +3,10 @@
 # 🏅 Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## What is this?
-Currently an awesome list of courses with free certificates &amp; badges.</br>
+Currently an awesome list of free IT courses with certificates &amp; badges on completion. 
+This list is opensource so all suggestions and pull requests are more than welcomed!
+
+</br>
 🏅= Digital Badges 🏆 = Certificate of Completion
 <br></br>
 
@@ -89,6 +92,9 @@ Currently an awesome list of courses with free certificates &amp; badges.</br>
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
+| [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
+| [Blockchain Technology: A Quick Introduction](https://learn.upgrad.com/course/1378) | Saylor Academy |Beginner| 10 | 🏆|
+
 
 
 ## Data Analysis and Visualization
