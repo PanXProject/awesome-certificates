@@ -25,6 +25,7 @@ This list is opensource so any suggestions and pull requests are more than welco
     - [Machine and Deep Learning](#machine-and-deep-learning)
     - [Networking](#networking)
     - [Operating Systems](#operating-systems)
+    - [Electrical Engineering](#electrical-engineering)
     - [Robotics and IoT](#robotics-and-iot)
     - [Chatbots](#chatbots)
     - [DevOps](#devops)
@@ -93,9 +94,6 @@ This list is opensource so any suggestions and pull requests are more than welco
 | [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
-| [Blockchain Technology: A Quick Introduction](https://learn.upgrad.com/course/1378) | Upgrad |Beginner| 10 | 🏆|
-
-
 
 ## Data Analysis and Visualization
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -154,6 +152,15 @@ This list is opensource so any suggestions and pull requests are more than welco
 | [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    🏆 |
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
+
+
+## Electrical Engineering
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/)| Open University | Intermediate| 10 |    🏆 |
+| [Electronic Applications](https://www.open.edu/openlearn/science-maths-technology/electronic-applications/)| Open University | Intermediate| 10 |    🏆 |
+| [Embedded Systems](https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/) | Academy Europe |Intermediate| 30 |🏆|
+| [Embedded Systems ES](https://www.mindluster.com/certificate/2234) | Mind Luster |Indtermediate|8 | 🏆|
 
 
 ## Robotics and IoT
