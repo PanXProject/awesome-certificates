@@ -14,7 +14,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 🏅= Digital Badges, 🏆 = Certificate of Completion
 <br></br>
 
-## Contents:
+## Contents
 - [Security](#security)
 - [Front-End](#front-end)
 - [Back-End](#back-end)
