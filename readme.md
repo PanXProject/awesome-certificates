@@ -241,7 +241,3 @@ The OSSU curriculum is a complete education in computer science using online mat
 This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 - [Books](https://github.com/learn-anything/books)</br> Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)</br> This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
-
-## Notes 
-- This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
-- If you'd like to contribute to this list, check out our [contribution steps here](contributing.md).
