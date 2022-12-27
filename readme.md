@@ -1,44 +1,43 @@
 ![Awesome Certificates](https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png)
+<p align="center">
+	<a href="awesome-certificates.md">What is awesome certificates?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="pull_request.md">Add a course/certificate</a>&nbsp;&nbsp;&nbsp;
+  <a href="license">CC0 License</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-# 🏅 Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## What is this?
-Currently an awesome list of free IT courses with certificates &amp; badges on completion. 
-This list is opensource so any suggestions and pull requests are more than welcome!
+An awesome list of free IT courses with certificates &amp; digital badges on completion. 
 
 </br>
-🏅= Digital Badges 🏆 = Certificate of Completion
+🏅= Digital Badges, 🏆 = Certificate of Completion
 <br></br>
 
 ## Contents:
-- [__🏅 Awesome Certificates__](#-awesome-certificates-)
-  - [__What is this?__](#what-is-this)
-  - [__Contents:__](#contents)
-    - [Security](#security)
-    - [Front-End](#front-end)
-    - [Back-End](#back-end)
-    - [Blockchain](#blockchain)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
-    - [Statistics](#statistics)
-    - [Data Science](#data-science)
-    - [Big Data](#big-data)
-    - [Machine and Deep Learning](#machine-and-deep-learning)
-    - [Networking](#networking)
-    - [Operating Systems](#operating-systems)
-    - [Electrical Engineering](#electrical-engineering)
-    - [Robotics and IoT](#robotics-and-iot)
-    - [Chatbots](#chatbots)
-    - [DevOps](#devops)
-    - [Programming Languages](#programming-languages)
-      - [C](#c)
-      - [Java](#java)
-      - [JavaScript](#javascript)
-      - [R](#r)
-      - [Python](#python)
-    - [Theories and Concepts](#theories-and-concepts)
-  - [__Other Awesome Lists__](#other-awesome-lists)
-  - [__License__](#license)
-  - [__Contributing__](#contributing)
+- [Security](#security)
+- [Front-End](#front-end)
+- [Back-End](#back-end)
+- [Blockchain](#blockchain)
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Statistics](#statistics)
+- [Data Science](#data-science)
+- [Big Data](#big-data)
+- [Machine and Deep Learning](#machine-and-deep-learning)
+- [Networking](#networking)
+- [Operating Systems](#operating-systems)
+- [Electrical Engineering](#electrical-engineering)
+- [Robotics and IoT](#robotics-and-iot)
+- [Chatbots](#chatbots)
+- [DevOps](#devops)
+- [Programming Languages](#programming-languages)
+  - [C](#c)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [R](#r)
+  - [Python](#python)
+- [Theories and Concepts](#theories-and-concepts)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Security
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -52,8 +51,8 @@ This list is opensource so any suggestions and pull requests are more than welco
 | [Cyber Defense](https://tryhackme.com/path/outline/blueteam) | TryHackMe | Intermediate | 48 | 🏆 |
 | [Red Teaming](https://tryhackme.com/path/outline/redteaming) | TryHackMe | Intermediate | 48 | 🏆 |
 | [Offensive Testing](https://tryhackme.com/path/outline/pentesting) | TryHackMe | Intermediate | 47 | 🏆 |
-| [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Easy | 51 | 🏆 |
-| [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Easy | 32 | 🏆 |
+| [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
+| [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 
 
 ## Front-End
