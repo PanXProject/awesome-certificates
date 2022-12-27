@@ -10,9 +10,7 @@
 
 An awesome list of free IT courses with certificates &amp; digital badges on completion. 
 
-</br>
 🏅= Digital Badges, 🏆 = Certificate of Completion
-<br></br>
 
 ## Contents
 - [Security](#security)
