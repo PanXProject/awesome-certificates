@@ -3,6 +3,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Adding courses to [awesome-certificates](readme.md)
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+Please ensure your pull request adheres to the [list guidelines](pull_request.md).
 
 
