@@ -1,14 +1,10 @@
 <!-- Congrats on contributing to awesome-certificates ! 🎉 -->
 
-<!-- Please fill in the below placeholders -->
-
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
-**Please read it multiple times.**
-
 ## Requirements for your pull request
-- The certificate/course you're adding has to be provided for free and not a trial membership or time-based offer. 
-- This pull request created should have the name of courses/certificates in the format `Add Name of Course(s)/Certificate(s)`.
+- The certificate/course you want to add has to be provided for free and not a trial membership or time-based offer. 
+- This pull request should have the name of courses/certificates in the format `Add Name of Course(s)/Certificate(s)`.
 	- ✅ `Add Java Introduction`
 	- ❌ `Update readme.md`
 - Your entry here should follow the existing Markdown table format. The first character should be uppercase and all coloums should be filled out. 
