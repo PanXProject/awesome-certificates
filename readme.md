@@ -30,6 +30,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 - [DevOps](#devops)
 - [Programming Languages](#programming-languages)
   - [C](#c)
+  - [Cypher](#cypher)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [R](#r)
