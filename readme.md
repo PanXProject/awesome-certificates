@@ -244,7 +244,9 @@ This list is an attempt to bring to light those awesome CS courses which make th
 - [Books](https://github.com/learn-anything/books)</br> Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)</br> This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
 
-## License 
+## Notes 
+
+### License
 This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contributing
