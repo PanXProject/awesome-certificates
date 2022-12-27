@@ -11,7 +11,7 @@
 - Your entry should be added at the bottom of the appropriate category.
 - Not a duplicate. Please search for existing submissions.
 - Include the link to digital badge/certificate when possible.
-- Make sure the course link is working
+- Make sure the course link is working.
 - Has consistent formatting and proper spelling/grammar.
 	- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
 - To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
