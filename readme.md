@@ -245,9 +245,5 @@ This list is an attempt to bring to light those awesome CS courses which make th
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)</br> This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
 
 ## Notes 
-
-### License
-This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
-
-## Contributing
-If you'd like to contribute to this list, check out our [contribution steps here](contributing.md).
+- This project is under the [creative commons license](https://creativecommons.org/publicdomain/zero/1.0/).
+- If you'd like to contribute to this list, check out our [contribution steps here](contributing.md).
