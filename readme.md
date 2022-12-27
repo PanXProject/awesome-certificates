@@ -190,6 +190,11 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
 | [C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) | HackerRank |Beginner| 1 | 🏆|
 
+### Cypher
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Cypher Query Language](https://memgraph.com/learn-cypher-query-language) | Memgraph |Beginner|1 | 🏅|
+
 
 ### Java
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -218,6 +223,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
 | [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
+| [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 
 
 ## Theories and Concepts
@@ -232,6 +238,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) | Saylor Academy |Professional|45 | 🏆|
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
+| [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
 
 
 ## Other Awesome Lists
