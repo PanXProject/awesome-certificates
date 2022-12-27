@@ -44,7 +44,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | [Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)| Cisco Networking Academy | Intermediate | 30 | [🏅](https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials)|
 | [Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer) | Cisco Networking Academy | Beginner | 10  | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer) |
 | [Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD) | IBM / SkillsBuild | Beginner | 10 | [🏅](https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals) |
-| [Information Security Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Information Security Certification](https://www.freecodecamp.org/learn/information-security/) | FreeCodeCamp |Professional|300 | 🏆|
 | [JR Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) | TryHackMe |Intermediate| 64 | 🏆|
 | [Cyber Defense](https://tryhackme.com/path/outline/blueteam) | TryHackMe | Intermediate | 48 | 🏆 |
 | [Red Teaming](https://tryhackme.com/path/outline/redteaming) | TryHackMe | Intermediate | 48 | 🏆 |
@@ -56,8 +56,8 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 ## Front-End
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Responsive Web Design Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp|Professional|300| 🏆|
-| [Front-End Libraries Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | FreeCodeCamp|Professional|300| 🏆|
+| [Front-End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Selenium 101](https://www.lambdatest.com/certifications/selenium-101) | LambdaTest | Beginner | 4 |🏆|
 | [Angular](https://www.hackerrank.com/skills-verification/angular_basic) | HackerRank | Beginner | 1 |🏆|
 | [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |🏆|
@@ -67,7 +67,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 ## Back-End
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [APIs and Microservices Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93) | Saylor Academy |Professional|42 | 🏆|
 | [REST API](https://www.hackerrank.com/skills-verification/rest_api_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [MongoDB Basics](https://university.mongodb.com/courses/M001/about) | MongoDB |Beginner| 8.5 | 🏆|
@@ -96,10 +96,10 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
-| [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
-| [Data Visualization Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 
 
 ## Statistics
@@ -132,7 +132,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow)|
 | [Introduction to Machine Learning with Sound](https://cognitiveclass.ai/courses/machine-learning-sound/) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/introduction-to-machine-learning-with-sound)|
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
-| [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
 
 
@@ -200,14 +200,14 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 ### JavaScript
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | 🏆|
 | [JavaScript](https://www.hackerrank.com/skills-verification/javascript_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
 
 ### R
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [R Essentials](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
+| [R 101](https://cognitiveclass.ai/courses/r-101) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
 | [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
 | [R](https://www.hackerrank.com/skills-verification/r_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
@@ -216,14 +216,14 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
-| [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
 
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Quality Assurance Certification](https://www.freecodecamp.org/learn/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/) | FreeCodeCamp |Professional|300 | 🏆|
 | [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) | Saylor Academy |Professional|52 | 🏆|
 | [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) | Saylor Academy |Professional|42 | 🏆|
 | [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) | Saylor Academy |Professional|38 | 🏆|
@@ -235,9 +235,7 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 
 
 ## Other Awesome Lists
-- [Open Source Society University](https://github.com/ossu/computer-science)</br>
-The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development.
-- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)</br>
-This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
-- [Books](https://github.com/learn-anything/books)</br> Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)</br> This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
+- [Open Source Society University](https://github.com/ossu/computer-science) The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development.
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses) This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+- [Books](https://github.com/learn-anything/books) Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
+- [Learn to Program](https://github.com/karlhorky/learn-to-program) This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
