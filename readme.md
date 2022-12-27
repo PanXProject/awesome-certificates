@@ -29,12 +29,6 @@ An awesome list of free IT courses with certificates &amp; digital badges on com
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-languages)
-  - [C](#c)
-  - [Cypher](#cypher)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [R](#r)
-  - [Python](#python)
 - [Theories and Concepts](#theories-and-concepts)
 - [Other Awesome Lists](#other-awesome-lists)
 
