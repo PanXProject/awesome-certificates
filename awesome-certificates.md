@@ -1,4 +1,4 @@
-# The awesome certificates manifesto
+# Awesome Certificates Manifesto
 
 Most IT certifications require payment which makes them inaccessible to many people. 
 
