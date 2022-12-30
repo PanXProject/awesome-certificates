@@ -1,8 +1,8 @@
 ![Awesome Certificates](https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png)
 <p align="center">
-	<a href="awesome-certificates.md">What is awesome certificates?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="pull_request.md">Add a course/certificate</a>&nbsp;&nbsp;&nbsp;
+	<a href="awesome-certificates.md">About project</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guidelines</a>&nbsp;&nbsp;&nbsp;
+	<a href="pull_request.md">Add certificate/course</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 # Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
