@@ -8,4 +8,4 @@ This project aims to provide a curated list of free IT certifications in various
 
 If you want to contribute to [awesome-certificates](awesome-certificates.md), start with this [guide](contribution.md).
 
-If you want to to add a course/certificate to this list, read how to open a [pull request](pull_request.md).  
+If you want to to add a course/certificate to this list, open a [pull request](pull_request_template.md).  
