@@ -7,7 +7,7 @@
 
 # Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-An awesome list of free IT courses with certificates &amp; digital badges on completion. 
+An awesome list of free IT and computer science courses with certificates &amp; digital badges on completion. 
 
 🏅= Digital Badges, 🏆 = Certificate of Completion
 
