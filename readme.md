@@ -16,7 +16,7 @@ The list is organized as follows:
 2. Course provider/certificate issuer name, 
 3. Course/certificate length in hours 
 4. Level of diffculty [Beginner, Intermediate or Professional] 
-5. Reward [🏅= Digital Badge or 🏆 = Certificate of Completion] to make it easier to decide which course to take. 
+5. Reward [🏅= Digital Badge or 🏆 = Certificate of Completion]. 
 
 If you have any ideas to make the list structure easier to navigate, kindly mention it [here](https://github.com/PanXProject/awesome-certificates/issues/new/choose) by opening a new issue.
 
