@@ -1,10 +1,10 @@
 # Awesome Certificates Manifesto
 
-- Most IT certifications require payment which makes them inaccessible to many people. 
+- Most certifications require payment making them inaccessible to many people. 
 
-- There are many free online courses provided but very few of them offer certificates for free.
+- There are some free online courses provided but very few of them offer the certificates for free.
 
-- This project aims to provide a curated list of free IT certifications in various computer science fields and levels of experience. 
+- This project aims to provide a curated list of free IT, Computer Science and Business certifications across various sub-fields and levels of experience. 
 
 - If you want to contribute to [awesome-certificates](awesome-certificates.md), start with this [guide](contributing.md).
 
