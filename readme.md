@@ -12,15 +12,29 @@ A curated of list of IT, computer science and business courses with certificates
 Each course on the list is free to take as well as the badge and certificate. 
 
 The list is organized as follows:
-1. Course/certificate title, 
-2. Course provider/certificate issuer name, 
-3. Course/certificate length in hours 
-4. Level of diffculty [Beginner, Intermediate or Professional] 
-5. Reward [🏅= Digital Badge or 🏆 = Certificate of Completion]. 
+<ol>
+	<li>Course/certificate title</li>
+	<li>Course provider/certificate issuer name</li>
+	<li>Level of diffculty(Beginner, Intermediate or Professional)</li>
+	<li>Course/certificate duration in hours</li>
+	<li>Reward(🏅= Digital Badge or 🏆 = Certificate of Completion)</li>
+</ol>
 
-If you have any ideas to make the list structure easier to navigate, kindly mention it [here](https://github.com/PanXProject/awesome-certificates/issues/new/choose) by opening a new issue.
+<b>Have ideas on how to improve this list or features you'd like to see?</b>
+<br>
+Kindly mention it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE%5D) by opening a new issue and we will do our best to address it.
+
+<b>Can't find the certificate you're looking for?</b>
+<br>
+Request it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=certificate-request.md&title=%5BCERTIFICATE%5D) and we will find for you.
+
+
+<b>Something isn't quite right?</b>
+<br>
+Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
 
 ## Contents
+
 - [Security](#security)
 - [Front-End](#front-end)
 - [Back-End](#back-end)
