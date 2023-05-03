@@ -188,7 +188,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 ## Chatbots
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [How to Build Chatbots](https://cognitiveclass.ai/courses/how-to-build-a-chatbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1)|
+| [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
 
 
 ## DevOps
