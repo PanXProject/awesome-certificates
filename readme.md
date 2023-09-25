@@ -209,6 +209,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
 | [C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) | HackerRank |Beginner| 1 | 🏆|
+| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) | freeCodeCamp |Beginner| 35 | 🏆|
 
 ### Cypher
 | Course Name | Course Provider | Level | Hour(s) | Reward |
