@@ -69,7 +69,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Offensive Testing](https://tryhackme.com/path/outline/pentesting) | TryHackMe | Intermediate | 47 | 🏆 |
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
-| [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | 🏅 |
+| [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
 
 ## Front-End
 | Course Name | Course Provider | Level | Hour(s) | Reward |
