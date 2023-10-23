@@ -104,6 +104,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3hr     | 🏆     |
 | [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4hr     | 🏆     |
 
+
 ## Blockchain
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
