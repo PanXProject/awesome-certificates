@@ -120,6 +120,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4hr     | 🏆     |
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4hr     | 🏆     |
 
 
 ## Statistics
@@ -154,8 +156,15 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
-
-
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Kaggle          | Beginner      | 3hr     | 🏆     |
+| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4hr     | 🏆     |
+| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4hr     | 🏆     |
+| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5hr     | 🏆     |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4hr | 🏆 |
+| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5hr     | 🏆     |
+| [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4hr     | 🏆     |
 
 ## Networking
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -252,8 +261,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4hr     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
 
-
-
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -267,8 +274,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
-
-
+| [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)             | Kaggle          | Intermediate | 4hr     | 🏆     |
 
 ## Business
 
