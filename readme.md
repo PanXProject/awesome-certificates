@@ -41,7 +41,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Blockchain](#blockchain)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Statistics](#statistics)
-- [SQL](#sql)
 - [Data Science](#data-science)
 - [Big Data](#big-data)
 - [Machine and Deep Learning](#machine-and-deep-learning)
@@ -102,7 +101,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
 | [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
-
+| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3hr     | 🏆     |
+| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4hr     | 🏆     |
 
 ## Blockchain
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -122,11 +122,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4hr     | 🏆     |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4hr     | 🏆     |
 
-## SQL
-| Course Name | Course Provider | Level | Hour(s) | Reward |
-|------------------------------------------------------|-----------------|---------------|---------|--------|
-| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3hr     | 🏆     |
-| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4hr     | 🏆     |
 
 ## Statistics
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -141,7 +136,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Science 101](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1)|
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | IBM / Cognitive Class |Beginner|4| [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-tools)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
-
 
 
 ## Big Data
@@ -221,18 +215,12 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 
 ## Programming Languages
 
-### Programming
-| Course Name                                           | Course Provider | Level         | Hour(s) | Reward |
-|------------------------------------------------------|-----------------|---------------|---------|--------|
-| [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
-
 ### C
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
 | [C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) | HackerRank |Beginner| 1 | 🏆|
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) | freeCodeCamp |Beginner| 35 | 🏆|
-
 
 ### Cypher
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -270,6 +258,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5hr     | 🏆     |
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4hr     | 🏆     |
+| [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
 
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hour(s) | Reward |
