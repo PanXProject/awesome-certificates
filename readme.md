@@ -166,6 +166,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5hr     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4hr     | 🏆     |
 
+
 ## Networking
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
