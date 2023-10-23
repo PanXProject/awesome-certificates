@@ -261,6 +261,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4hr     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
 
+
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -275,6 +276,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
 | [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)             | Kaggle          | Intermediate | 4hr     | 🏆     |
+
 
 ## Business
 
