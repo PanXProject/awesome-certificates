@@ -55,6 +55,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Business](#business)
 - [Other Awesome Lists](#other-awesome-lists)
 
+
 ## Security
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -70,6 +71,14 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 | [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
+| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security) | Great Learning | Beginner | 3 | 🏆 |
+| [Types of Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security) | Great Learning | Beginner | 1 | 🏆 |
+| [Cyber Forensics](https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-forensics) | Great Learning | Beginner | 1 | 🏆 |
+| [Introduction to Information Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security) | Great Learning | Beginner | 2 | 🏆 |
+| [Network Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/network-security) | Great Learning | Beginner | 1 | 🏆 |
+| [Advanced Cyber Security - Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance) | Great Learning | Beginner | 2 | 🏆 |
+| [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
+
 
 ## Front-End
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -112,6 +121,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
 
+
 ## Data Analysis and Visualization
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -137,6 +147,13 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Science 101](https://cognitiveclass.ai/courses/data-science-101/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1)|
 | [Data Science Tools](https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2) | IBM / Cognitive Class |Beginner|4| [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-tools)|
 | [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/python-for-data-science)|
+| [Popular Applications of Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/popular-applications-of-data-science) | Great Learning |Beginner| 1 | 🏆 |
+| [Career in Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/career-in-data-science) | Great Learning |Beginner| 1 | 🏆 |
+| [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science) | Great Learning |Beginner| 1 | 🏆 |
+| [Data Science Mathematics](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-mathematics) | Great Learning |Beginner| 1 | 🏆 |
+| [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
+| [Statistical Methods for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making) | Great Learning |Beginner| 2 | 🏆 |
+| [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
 
 
 ## Big Data
@@ -165,6 +182,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4hr | 🏆 |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5hr     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4hr     | 🏆     |
+
 
 ## Networking
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -223,6 +241,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) | HackerRank |Beginner| 1 | 🏆|
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) | freeCodeCamp |Beginner| 35 | 🏆|
 
+
 ### Cypher
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -261,6 +280,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4hr     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
 
+
 ## Theories and Concepts
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -283,6 +303,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Google | Beginner | 40 | 🏅 |
 | [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
+
 
 ### Project Management
 | Course Name | Course Provider | Level | Hour(s) | Reward |
