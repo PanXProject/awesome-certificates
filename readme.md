@@ -117,8 +117,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 ## Blockchain
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
-| [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
+| [Blockchain Masterclass](https://courses.cfte.education/free-online-blockchain-masterclass/) | Centre for Finance, Technology and Entrepreneurship |Beginner| - | 🏅|
+| [Blockchain Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics) | Great Learning |Beginner| 2.5 | 🏆|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
 
 
