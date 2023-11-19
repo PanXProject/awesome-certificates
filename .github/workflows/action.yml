@@ -5,8 +5,8 @@ on:
     branches:
     - master
   schedule:
-  # Run everyday at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
-  - cron: "0 9 * * *"
+  # Run everyday at 00:00 AM on Sunday (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+  - cron: "0 0 * * 0"
 
 jobs:
   markdown-link-check:
