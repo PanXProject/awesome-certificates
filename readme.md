@@ -169,7 +169,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials)|
 | [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow)|
-| [Introduction to Machine Learning with Sound](https://cognitiveclass.ai/courses/machine-learning-sound/) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/introduction-to-machine-learning-with-sound)|
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
@@ -212,7 +211,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
-| [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/building-robots-with-tjbot)|
+| [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | 🏅|
 
 
 ## Chatbots
