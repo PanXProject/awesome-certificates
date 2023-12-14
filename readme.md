@@ -132,6 +132,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
+| [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | 🏆 |
+| [Data Visualization With Power BI](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi) | Great Learning |Beginner| 2 | 🏆 |
 
 
 ## Statistics
@@ -154,6 +156,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [R for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/r-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
 | [Statistical Methods for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/statistical-methods-for-decision-making) | Great Learning |Beginner| 2 | 🏆 |
 | [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
+| [Data Preprocessing](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing) | Great Learning |Beginner| 2 | 🏆 |
+| [SQL for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science) | Great Learning | Beginner | 3 | 🏆 |
 
 
 ## Big Data
@@ -181,6 +185,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
+| [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning |Beginner|  1.5 | 🏆 |
 
 
 ## Networking
@@ -204,7 +209,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/)| Open University | Intermediate| 10 |    🏆 |
 | [Electronic Applications](https://www.open.edu/openlearn/science-maths-technology/electronic-applications/)| Open University | Intermediate| 10 |    🏆 |
 | [Embedded Systems](https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/) | Academy Europe |Intermediate| 30 |🏆|
-| [Embedded Systems ES](https://www.mindluster.com/certificate/2234) | Mind Luster |Indtermediate|8 | 🏆|
+| [Embedded Systems ES](https://www.mindluster.com/certificate/2234) | Mind Luster |Intermediate|8 | 🏆|
 
 
 ## Robotics and IoT
@@ -218,6 +223,9 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
+| [ChatGPT for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners) | Great Learning |Beginner| 2 | 🏆 |
+| [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | 🏆 |
+
 
 
 ## DevOps
@@ -278,6 +286,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
+| [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
+
 
 
 ## Theories and Concepts
