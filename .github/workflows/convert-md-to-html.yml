@@ -21,7 +21,7 @@ jobs:
           output_dir: html
           images_dir: /media
           # for example <img src="./images/file-name.png">
-          image_import: ./images
+          image_import: ./media
           # Default is true, can set to false to only get PDF files
           build_html: true
       - uses: actions/upload-artifact@v3
