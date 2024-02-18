@@ -1,12 +1,11 @@
 ![Awesome Certificates](https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png)
-<p align="center">
-	<a href="awesome-certificates.md">About project</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guidelines</a>&nbsp;&nbsp;&nbsp;
-	<a href="pull_request_template.md">Add certificate/course</a>&nbsp;&nbsp;&nbsp;
-</p>
 
 # Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
 <!-- markdown-link-check-disable -->
+
+[Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/contributing.md) /
+[Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
+
 A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
