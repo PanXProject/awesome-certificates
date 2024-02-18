@@ -277,6 +277,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 
 
 ### Java
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Java](https://www.hackerrank.com/skills-verification/java_basic) | HackerRank |Beginner| 1 | 🏆|
