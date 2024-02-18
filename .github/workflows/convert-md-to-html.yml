@@ -1,4 +1,4 @@
-name: MD to HTML
+name: Docs to HTML
 # This workflow is triggered on pushes to the repository.
 on:
   push:
@@ -15,17 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_dir: /
           output_dir: html
           images_dir: /media
           # for example <img src="./images/file-name.png">
-          image_import: ./media
+          image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: true
-          build_pdf: false
       - uses: actions/upload-artifact@v3
         with:
-          name: html
+          name: website
           path: html
