@@ -5,7 +5,7 @@
 
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/contributing.md) /
 [Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
-
+<!-- markdown-link-check-enable -->
 A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
@@ -348,7 +348,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
-
+<!-- markdown-link-check-enable -->
 
 ### Support
 
