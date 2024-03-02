@@ -341,6 +341,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
 
 <!-- markdown-link-check-disable -->
+
 ### Project Management
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
