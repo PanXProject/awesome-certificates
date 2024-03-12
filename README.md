@@ -48,6 +48,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Data Science](#data-science)
 - [Big Data](#big-data)
 - [Machine and Deep Learning](#machine-and-deep-learning)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Networking](#networking)
 - [Operating Systems](#operating-systems)
 - [Electrical Engineering](#electrical-engineering)
@@ -188,17 +189,28 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow)|
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
-| [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
 | [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Kaggle          | Beginner      | 3     | 🏆     |
 | [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4     | 🏆     |
 | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4     | 🏆     |
 | [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4     | 🏆     |
 | [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | 🏆     |
-| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                | Kaggle          | Intermediate | 4     | 🏆     |
-| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
-| [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning |Beginner|  1.5 | 🏆 |
+
+
+## Artificial Intelligence
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Elements of AI](https://www.elementsofai.com/) | University of Helsinki | Beginner |30 | 🏆|
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | Kaggle | Intermediate | 4 | 🏆  |
+| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
+| [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
+| [Introduction to Artificial Intelligence](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1) | Great Learning | Beginner|  1.5 | 🏆 |
+| [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering) | Amazon | Intermediate | 4 | 🏆 |
+| [Generative AI for Decision Makers](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers) | Amazon | Beginner| 3 | 🏆 |
+| [Generative AI Fundamentals](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Data Bricks |Beginner|0.5 | 🏅 |
+| [Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 
 
 ## Networking
