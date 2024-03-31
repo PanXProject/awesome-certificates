@@ -267,7 +267,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 | [Introduction to Kubernetes](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1) | Great Learning | Beginner | 1.5 | 🏆|
-| [Kubernetes in Google Cloud](https://www.cloudskillsboost.google/quests/29) | Google / Qwiki Labs |Intermediate|6 | [🏅](https://www.cloudskillsboost.google/quests/29)|
 
 
 ## Programming Languages
