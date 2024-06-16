@@ -56,7 +56,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Chatbots](#chatbots)
 - [DevOps](#devops)
 - [Programming Languages](#programming-languages)
-- [Game Devlopement](#game-developement)
+- [Game Devlopement](#Game-developement)
 - [Computer Theories and Concepts](#theories-and-concepts)
 - [Business](#business)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -328,7 +328,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 
 
-## game-developement
+## Game-developement
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
