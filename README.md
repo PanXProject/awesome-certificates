@@ -87,7 +87,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
 
 
-## game-developement
 
 ## Front-End
 
@@ -327,6 +326,17 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
+
+
+## game-developement
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) | Unity | Beginner | 336 | [🏅](https://www.credly.com/org/unity/badge/unity-essentials-pathway) |
+| [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginer | 2000 | [🏅](https://www.credly.com/org/unity/badge/unity-junior-programmer)
+| [Creative Core](https://learn.unity.com/pathway/creative-core) | Unity | Beginer | 1680 | [🏅](https://www.credly.com/org/unity/badge/unity-creative-core)
+| [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginer | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
+| [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginer | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
 
 
 ## Theories and Concepts
