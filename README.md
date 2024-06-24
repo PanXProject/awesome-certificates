@@ -87,7 +87,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
 
 
-
 ## Front-End
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
