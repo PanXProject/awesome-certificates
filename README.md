@@ -58,8 +58,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Programming Languages](#programming-languages)
 - [Computer Theories and Concepts](#theories-and-concepts)
 - [Business](#business)
+- [Game Development](#game-development)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Game Devlopement](#Game-developement)
 
 
 ## Security
@@ -362,7 +362,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
 
-
 <!-- markdown-link-check-enable -->
 
 ### Support
@@ -371,9 +370,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Customer Relationship Management](https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management) | Great Learning | Beginner | 1 | 🏆 |
 
-## Game-developement
-
-### Unity
+## Game Development
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
