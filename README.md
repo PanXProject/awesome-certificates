@@ -6,7 +6,7 @@
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
 [Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
 <!-- markdown-link-check-enable -->
-A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
+A curated of list of IT, computer science, design and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
 
@@ -54,11 +54,14 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 - [Electrical Engineering](#electrical-engineering)
 - [Robotics and IoT](#robotics-and-iot)
 - [Chatbots](#chatbots)
+- [Cloud Computing](#cloud-computing)
+- [Game Development](#game-development)
+- [Mobile App Development](#mobile-app-development)
 - [DevOps](#devops)
 - [Programming Languages](#programming-languages)
 - [Computer Theories and Concepts](#theories-and-concepts)
 - [Business](#business)
-- [Game Development](#game-development)
+- [Design](#design)
 - [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -86,6 +89,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Advanced Cyber Security - Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance) | Great Learning | Beginner | 2 | 🏆 |
 | [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Front-End
 
@@ -97,6 +102,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Angular](https://www.hackerrank.com/skills-verification/angular_basic) | HackerRank | Beginner | 1 |🏆|
 | [React](https://www.hackerrank.com/skills-verification/react_basic) | HackerRank | Beginner | 1.5 |🏆|
 | [Node.js](https://www.hackerrank.com/skills-verification/nodejs_intermediate) | HackerRank | Intermediate | 1 |🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Back-End
@@ -122,6 +129,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3     | 🏆     |
 | [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4     | 🏆     |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Blockchain
 
@@ -130,6 +139,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Blockchain Masterclass](https://courses.cfte.education/free-online-blockchain-masterclass/) | Centre for Finance, Technology and Entrepreneurship |Beginner| - | 🏅|
 | [Blockchain Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics) | Great Learning |Beginner| 2.5 | 🏆|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Data Analysis and Visualization
@@ -145,6 +156,10 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
 | [Data Visualisation in Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualisation-in-tableau) | Great Learning |Beginner| 1 | 🏆 |
 | [Data Visualization With Power BI](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi) | Great Learning |Beginner| 2 | 🏆 |
+| [Mastering Big Data Analytics](https://www.mygreatlearning.com/academy/learn-for-free/courses/mastering-big-data-analytics) | Great Learning |Intermediate| 19 | 🏆 |
+| [Data Visualization with Tableau](https://www.mygreatlearning.com/academy/learn-for-free/courses/foundations-of-data-visualization-using-tableau) | Great Learning |Beginner| 2 | 🏆 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Statistics
@@ -152,6 +167,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Statistics 101](https://cognitiveclass.ai/courses/statistics-101) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/statistics-101)|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Data Science
@@ -171,6 +188,9 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Probability for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science) | Great Learning |Beginner| 2 | 🏆 |
 | [Data Preprocessing](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-preprocessing) | Great Learning |Beginner| 2 | 🏆 |
 | [SQL for Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-for-data-science) | Great Learning | Beginner | 3 | 🏆 |
+| [Data Science Foundation](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations) | Great Learning |Beginner| 2 | 🏆 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Big Data
@@ -180,6 +200,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
 | [Hadoop Foundations - Level 1](https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016) | IBM  / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1)|
 | [Spark Fundamentals I](https://cognitiveclass.ai/courses/what-is-spark) | IBM / Cognitive Class |Beginner|5 | [🏅](https://www.youracclaim.com/org/ibm/badge/spark-level-1)|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Machine and Deep Learning
@@ -198,6 +220,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Artificial Intelligence
 
@@ -214,6 +238,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Networking
 
@@ -221,6 +247,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
 | [CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) | Saylor Academy | Intermediate | 60 | 🏆 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Operating Systems
@@ -230,6 +258,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    🏆 |
 | [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials) | Cisco Networking Academy |Intermediate| 70 |🏆|
 | [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) | Saylor Academy |Professional|120 | 🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Electrical Engineering
@@ -241,6 +271,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Embedded Systems](https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/) | Academy Europe |Intermediate| 30 |🏆|
 | [Embedded Systems ES](https://www.mindluster.com/certificate/2234) | Mind Luster |Intermediate|8 | 🏆|
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Robotics and IoT
 
@@ -248,6 +280,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
 | [Building Robots with TJBot](https://cognitiveclass.ai/courses/build-robots-with-tjbot) | IBM / Cognitive Class |Beginner|3 | 🏅|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Chatbots
@@ -258,6 +292,58 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [ChatGPT for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-beginners) | Great Learning |Beginner| 2 | 🏆 |
 | [Getting Started with Bard](https://www.mygreatlearning.com/academy/learn-for-free/courses/getting-started-with-bard) | Great Learning |Beginner| 1 | 🏆 |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+## Cloud Computing
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
+| [Introduction to Cloud Computing](https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing) | EC-Council |Beginner|3 | 🏆|
+| [Cloud Foundations](https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations) | Great Learning |Beginner| 1.5 | 🏆|
+| [Cloud Essentials Knowledge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path) | Amazon | Intermediate | 10 | 🏅 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+## Game Development
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) | Unity | Beginner | 336 | [🏅](https://www.credly.com/org/unity/badge/unity-essentials-pathway) |
+| [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginner | 2000 | [🏅](https://www.credly.com/org/unity/badge/unity-junior-programmer)
+| [Creative Core](https://learn.unity.com/pathway/creative-core) | Unity | Beginner | 1680 | [🏅](https://www.credly.com/org/unity/badge/unity-creative-core)
+| [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginner | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
+| [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginner | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+## Mobile App Development
+
+### Cross-platform Development 
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Intro to Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) | Google | Beginner | 0.2 | 🏅 |
+| [React Native](https://codehs.com/playlist/hour-of-code-3111) | CodeHS | Beginner | 1 | 🏅 |
+| [React Native for Beginners](https://cursa.app/en/free-online-courses/react-native) | Cursa | Beginner | 5 | 🏆 |
+| [React Native HTML to JSX](https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx) | Umaine New Media | Intermediate | 0.2 | 🏅 |
+| [React Native CSS to JSX](https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx) | Umaine New Media | Intermediate | 0.2 | 🏅 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+### Native Development
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Android Bug Bounty Hunting: Hunt Like a Rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat) | EC-Council | Beginner | 1 | 🏆 |
+| [Android Studio Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial) | Great Learning | Beginner | 1 | 🏆 |
+| [Android App Development](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development ) | Great Learning | Beginner | 1.5 | 🏆 |
+| [Android App Development with Kotlin](https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin) | Google | Intermediate | 20 |  🏅 |	
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## DevOps
@@ -266,9 +352,10 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
 | [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction)|
-| [IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud-essentials) | IBM / Cognitive Class |Beginner|4 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2)|
 | [Introduction to Containers, Kubernetes, and OpenShift](https://cognitiveclass.ai/courses/kubernetes-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials)|
 | [Introduction to Kubernetes](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-kubernetes1) | Great Learning | Beginner | 1.5 | 🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ## Programming Languages
@@ -281,6 +368,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) | HackerRank |Beginner| 1 | 🏆|
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) | freeCodeCamp |Beginner| 35 | 🏆|
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ### Cypher
 
@@ -288,12 +377,16 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Cypher Query Language](https://memgraph.com/learn-cypher-query-language) | Memgraph |Beginner|1 | 🏅|
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ### Java
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Java](https://www.hackerrank.com/skills-verification/java_basic) | HackerRank |Beginner| 1 | 🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ### JavaScript
@@ -303,6 +396,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | 🏆|
 | [JavaScript](https://www.hackerrank.com/skills-verification/javascript_basic) | HackerRank |Beginner| 1.5 | 🏆|
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ### R
 
@@ -311,6 +406,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [R 101](https://cognitiveclass.ai/courses/r-101) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
 | [Using R with Databases](https://cognitiveclass.ai/courses/using-r-with-databases/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/using-r-with-databases)|
 | [R](https://www.hackerrank.com/skills-verification/r_basic) | HackerRank |Beginner| 1.5 | 🏆|
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 
 ### Python
@@ -325,6 +422,9 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Theories and Concepts
 
@@ -342,6 +442,9 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
 | [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)             | Kaggle          | Intermediate | 4     | 🏆     |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
 ## Business
 
 ### Marketing
@@ -350,6 +453,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Google | Beginner | 40 | 🏅 |
 | [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
 <!-- markdown-link-check-disable -->
 
@@ -361,6 +466,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
 
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 <!-- markdown-link-check-enable -->
 
 ### Support
@@ -369,15 +476,51 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Customer Relationship Management](https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management) | Great Learning | Beginner | 1 | 🏆 |
 
-## Game Development
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+### Business Analytics
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Unity Essentials](https://learn.unity.com/pathway/unity-essentials) | Unity | Beginner | 336 | [🏅](https://www.credly.com/org/unity/badge/unity-essentials-pathway) |
-| [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) | Unity | Beginer | 2000 | [🏅](https://www.credly.com/org/unity/badge/unity-junior-programmer)
-| [Creative Core](https://learn.unity.com/pathway/creative-core) | Unity | Beginer | 1680 | [🏅](https://www.credly.com/org/unity/badge/unity-creative-core)
-| [VR Development](https://learn.unity.com/pathway/vr-development) | Unity | Beginer | 1000 | [🏅](https://www.credly.com/org/unity/badge/unity-vr-development)
-| [Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development) | Unity | Beginer | 1344 | [🏅](https://www.credly.com/org/unity/badge/unity-mobile-ar-development)
+| [Data Analysis with Excel](https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-exploratory-data-analysis-with-excel) | Great Learning |Intermediate| 1.5 | 🏆 |
+| [Intro to Business Analytics](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-business-analytics) | Great Learning |Beginner| 1 | 🏆 |
+| [Business Intelligence Foundation Professional](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | CertiProf |Beginner| 1 |🏅|
+| [Business Analysis Basics](https://www.simplilearn.com/introduction-to-business-analysis-free-course-skillup) | Simplilearn |Beginner| 2 | 🏆 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+## Design
+
+### Photoshop
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Graphic Design with Photoshop](https://www.mygreatlearning.com/academy/learn-for-free/courses/intro-to-graphic-design-with-photoshop) | Great Learning |Beginner| 1 | 🏆 |
+| [Adobe Photoshop](https://www.mindluster.com/certificate/1568/Adobe-Photoshop) | Mind Luster |Beginner| 1.4 | 🏆 |
+| [How to Erase a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_erase_shape) | UMaine New Media | intermediate| 0.13 | 🏅 |
+| [How to Select a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_select_shape) | UMaine New Media | intermediate| 0.1 | 🏅 |
+| [How to Insert a shape in Photoshop](https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape) | UMaine New Media | intermediate| 0.1 | 🏅 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
+
+### Illustrator
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [How to Select shapes in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_select_shapes) | UMaine New Media | Beginner| 0.11 | 🏅 |
+| [How to Create shapes in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes) | UMaine New Media | Beginner| 0.11 | 🏅 |
+| [How to Wrap shapes in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_wrap_shapes) | UMaine New Media | intermediate| 0.11 | 🏅 |
+| [Manage color in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_manage_color) | UMaine New Media | Beginner| 0.11 | 🏅 |
+| [Apply strokes and fills in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills) | UMaine New Media | Beginner| 0.1 | 🏅 |
+| [Apply gradient in Illustrator](https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient) | UMaine New Media | intermediate| 0.1 | 🏅 |
+| [How to make an Infographic in Illustrator 1](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1) | UMaine New Media | Beginner| 0.22 | 🏅 |
+| [How to make an Infographic in Illustrator 2](https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2) | UMaine New Media | Beginner| 0.2 | 🏅 |
+
+[⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
+
 
 ## Contributors 
 <a href="https://github.com/panxproject/awesome-certificates/graphs/contributors">
