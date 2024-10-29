@@ -88,6 +88,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Network Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/network-security) | Great Learning | Beginner | 1 | 🏆 |
 | [Advanced Cyber Security - Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance) | Great Learning | Beginner | 2 | 🏆 |
 | [Encryption Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/encryption) | Great Learning | Beginner | 1 | 🏆 |
+| [Cybersecurity Skill Tree](https://labex.io/skilltrees/cybersecurity)) | LabEx | Beginner | 30 | 🏆 |
 
 [⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
