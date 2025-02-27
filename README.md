@@ -444,6 +444,11 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Service Hub Software Certification ](https://academy.hubspot.com/courses/hubspot-service-software)| HubSpot | Beginner | 2.1 | 🏆 |
+| [Customer Engagement Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative)| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
+| [Customer Relationship Management](https://www.life-global.org/course/35-customer-relationship-management)| HP / Life Global | Beginner | 1 | 🏅 |
+| [Customer Services](https://www.bolc.co.uk/customer-services-courses-online/free-online-customer-service-training)| Brentwood Open Learning College | Intermediate | 20 | 🏆  |
+
 
 
 [⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
