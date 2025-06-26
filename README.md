@@ -81,6 +81,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Comptia Pentest+](https://tryhackme.com/path/outline/pentestplus) | TryHackMe | Beginner | 51 | 🏆 |
 | [Web Fundamentals](https://tryhackme.com/path/outline/web) | TryHackMe | Beginner | 32 | 🏆 |
 | [Certified in Cybersecurity](https://www.isc2.org/certifications/cc) | ISC2 | Beginner | 14 | [🏅](https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc) |
+| [Fortinet Certified Fundamentals in Cybersecurity](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity) | Fortinet Training Institute | Beginner | 10 | [🏆](https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity) |
+| [Fortinet Certified Associate in Cybersecurity](https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity) | Fortinet Training Institute | Beginner | 6 | [🏆](https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1) | 
 
 [⬆️](https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents)
 
