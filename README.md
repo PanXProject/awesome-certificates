@@ -1,14 +1,14 @@
 <img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
 
-# Awesome Certificates <a href="https://awesome.re/badge-flat2.svg" target="_blank" rel="noopener noreferrer">![Awesome</a>](https://awesome.re) <a href="https://badges.gitter.im/PanXProject/awesome-certificates.svg" target="_blank" rel="noopener noreferrer">![Gitter</a>](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) <a href="https://badgen.net/badge/icon/discord?icon=discord&label" target="_blank" rel="noopener noreferrer">![Discord</a>](https://discord.com/invite/3kSS9dvnPz) 
+# Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
 <!-- markdown-link-check-disable -->
 
-<a href="https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribution guidelines</a> /
-<a href="https://github.com/PanXProject/awesome-certificates/compare" target="_blank" rel="noopener noreferrer">Add a course/certificate</a>
+[Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
+[Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
 <!-- markdown-link-check-enable -->
 A curated of list of IT, computer science, design and business courses with certificates &amp; digital badges to earn upon completion. 
 
-Each course on the list is free to take as well as the badge and certificate. 
+Each course on the list is free to take as well as the badge and certificate.
 
 The list is organized as follows:
 <ol>
