@@ -3,8 +3,8 @@
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
 ## Requirements for your pull request
-- The certificate/course you want to add has to be provided for free and not a trial membership or time-based offer. 
-- This pull request should have the name of courses/certificates in the format `Add Name of Course(s)/Certificate(s)`.
+- The certificate/course you want to add has to be provided for free and not a trial membership or time-based offer.
+- This pull request should have the name of the course(s)/certificate(s) in the format `Add Name of Course(s)/Certificate(s)`.
 	- ✅ `Add Java Introduction`
 	- ❌ `Update readme.md`
 - Your entry should be added at the bottom of the appropriate category.
