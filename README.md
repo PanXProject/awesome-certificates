@@ -6,7 +6,7 @@
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
 [Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
 <!-- markdown-link-check-enable -->
-A curated of list of IT, computer science, design and business courses with certificates &amp; digital badges to earn upon completion. 
+A curated of list of IT, computer science, design and business courses with certificates & digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate.
 
