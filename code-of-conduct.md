@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [REPLACE_WITH_PROJECT_EMAIL]. All
+reported by contacting the project team at [38ba559f-aeff-4325-bf2a-37d3bd8a0b8b@anonaddy.me]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
