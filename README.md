@@ -6,7 +6,7 @@
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
 [Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
 <!-- markdown-link-check-enable -->
-A curated of list of IT, computer science, design and business courses with certificates & digital badges to earn upon completion. 
+A curated of list of IT, computer science, design and business courses with certificates & digital badges to earn upon completion.
 
 Each course on the list is free to take as well as the badge and certificate.
 
@@ -64,7 +64,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 - [Statistics](#statistics)
 - [Other Awesome Lists](#other-awesome-lists)
 
-
 ## Security
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -87,7 +86,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Front-End
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -100,7 +98,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/nodejs_intermediate" target="_blank" rel="noopener noreferrer">Node.js</a> | HackerRank | Intermediate | 1 |🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Back-End
 
@@ -128,7 +125,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Blockchain
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -137,7 +133,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=500" target="_blank" rel="noopener noreferrer">Bitcoin for Developers</a> | Saylor Academy |Beginner| 18 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Data Analysis and Visualization
 
@@ -153,7 +148,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Statistics
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -161,7 +155,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/statistics-101" target="_blank" rel="noopener noreferrer">Statistics 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/statistics-101" target="_blank" rel="noopener noreferrer">🏅</a>|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Data Science
 
@@ -174,7 +167,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Big Data
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -184,7 +176,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/what-is-spark" target="_blank" rel="noopener noreferrer">Spark Fundamentals I</a> | IBM / Cognitive Class |Beginner|5 | <a href="https://www.youracclaim.com/org/ibm/badge/spark-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Machine and Deep Learning
 
@@ -204,7 +195,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Artificial Intelligence
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -221,7 +211,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Networking
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -230,7 +219,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=790" target="_blank" rel="noopener noreferrer">CS402: Computer Communications and Networks</a> | Saylor Academy | Intermediate | 60 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Operating Systems
 
@@ -241,7 +229,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Electrical Engineering
 
@@ -254,7 +241,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Robotics and IoT
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -264,7 +250,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Chatbots
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -272,7 +257,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/chatbot-course" target="_blank" rel="noopener noreferrer">How to Build Chatbots</a> | IBM / Cognitive Class |Beginner|5 | 🏅|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Cloud Computing
 
@@ -295,7 +279,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Mobile App Development
 
@@ -321,7 +304,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## DevOps
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -332,7 +314,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cloud.layer5.io/academy/certifications/c5ada327-8a58-4c8a-b9fa-51b95696488c/certified-meshery-contributor" target="_blank" rel="noopener noreferrer">Certified Meshery Contributor</a> | Meshery |Beginner|2.5 | <a href="https://www.cncf.io/blog/2025/10/27/announcing-the-certified-meshery-contributor-cmc/" target="_blank" rel="noopener noreferrer">🏅</a>|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Programming Languages
 
@@ -400,7 +381,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Theories and Concepts
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -416,7 +396,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank" rel="noopener noreferrer">Geospatial Analysis</a>             | Kaggle          | Intermediate | 4     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ## Business
 
@@ -467,7 +446,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ## Design
 
 ### Photoshop
@@ -497,8 +475,8 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
+## Contributors
 
-## Contributors 
 <a href="https://github.com/panxproject/awesome-certificates/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=panxproject/awesome-certificates" />
 </a>
@@ -509,3 +487,5 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 - <a href="https://github.com/prakhar1989/awesome-courses" target="_blank" rel="noopener noreferrer">Awesome Courses</a> - This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 - <a href="https://github.com/learn-anything/books" target="_blank" rel="noopener noreferrer">Books</a> - Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 
 - <a href="https://github.com/karlhorky/learn-to-program" target="_blank" rel="noopener noreferrer">Learn to Program</a> - This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
+
+---
