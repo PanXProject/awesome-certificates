@@ -107,6 +107,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/" target="_blank" rel="noopener noreferrer">Back End Development and APIs Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://academy.postman.com/path/postman-api-fundamentals-student-expert/" target="_blank" rel="noopener noreferrer">Postman API Fundamentals Student Expert</a> | Postman |Beginner| 1 | 🏅|
 | <a href="https://learn.saylor.org/course/view.php?id=93" target="_blank" rel="noopener noreferrer">CS403: Introduction to Modern Database Systems</a> | Saylor Academy |Professional|42 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/rest_api_intermediate" target="_blank" rel="noopener noreferrer">REST API</a> | HackerRank |Intermediate| 1.5 | 🏆|
 | <a href="https://university.mongodb.com/courses/M001/about" target="_blank" rel="noopener noreferrer">MongoDB Basics</a> | MongoDB |Beginner| 8.5 | 🏆|
