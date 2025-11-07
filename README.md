@@ -1,6 +1,6 @@
 <img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
 
-# Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
+# Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz)
 <!-- markdown-link-check-disable -->
 
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
@@ -19,7 +19,6 @@ The list is organized as follows:
 	<li>Reward(🏅= Digital Badge or 🏆 = Certificate of Completion)</li>
 </ol>
 
-
 <b>Want to contribute to this list?</b>
 <br>
 Fork this <a href="https://github.com/PanXProject/awesome-certificates/fork" target="_blank" rel="noopener noreferrer">repo</a>, make the changes on the `readme.md` file and then open a <a href="https://github.com/PanXProject/awesome-certificates/compare" target="_blank" rel="noopener noreferrer">new issue</a>. Make sure to check out both the <a href="https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md" target="_blank" rel="noopener noreferrer">contribution</a> and <a href="https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md" target="_blank" rel="noopener noreferrer">pull request</a> guidelines. 
@@ -31,7 +30,6 @@ Kindly mention it <a href="https://github.com/PanXProject/awesome-certificates/i
 <b>Can't find the certificate you're looking for?</b>
 <br>
 Request it <a href="https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=certificate-request.md&title=%5BCERTIFICATE%5D" target="_blank" rel="noopener noreferrer">here</a> and we will find for you.
-
 
 <b>Something isn't quite right?</b>
 <br>
@@ -82,7 +80,8 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tryhackme.com/path/outline/web" target="_blank" rel="noopener noreferrer">Web Fundamentals</a> | TryHackMe | Beginner | 32 | 🏆 |
 | <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
-| <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> | 
+| <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> |
+| <a href="https://www.life-global.org/course/346-introduction-to-cybersecurity-awareness" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity Awareness</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -145,6 +144,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank" rel="noopener noreferrer">Data Visualization Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/data-visualization" target="_blank" rel="noopener noreferrer">Data Visualization</a>             | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/data-cleaning" target="_blank" rel="noopener noreferrer">Data Cleaning</a>                         | Kaggle          | Intermediate | 4     | 🏆     |
+| <a href="https://www.life-global.org/course/344-data-science-and-analytics" target="_blank" rel="noopener noreferrer"> Data Science & Analytics </a> | HP / Life Global | Beginner | 0.5 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -188,10 +188,10 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
-| <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>       | Kaggle          | Intermediate | 4     | 🏆     |
-| <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>                               | Kaggle          | Intermediate | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>           | Kaggle          | Intermediate | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/computer-vision" target="_blank" rel="noopener noreferrer">Computer Vision</a>                     | Kaggle          | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>  | Kaggle          | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>    | Kaggle          | Intermediate | 5     | 🏆     |
+| <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>| Kaggle          | Intermediate | 5     | 🏆     |
+| <a href="https://www.kaggle.com/learn/computer-vision" target="_blank" rel="noopener noreferrer">Computer Vision</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -208,6 +208,8 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals" target="_blank" rel="noopener noreferrer">Generative AI Fundamentals</a> | Data Bricks |Beginner|0.5 | 🏅 |
 | <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | <a href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/" target="_blank" rel="noopener noreferrer">Prompt Engineering for Vision Models</a> | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
+| <a href="https://www.life-global.org/course/423-ai-for-business-professionals" target="_blank" rel="noopener noreferrer">AI for Business Professionals</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/391-ai-for-beginners" target="_blank" rel="noopener noreferrer">AI for Beginners</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -282,7 +284,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 ## Mobile App Development
 
-### Cross-platform Development 
+### Cross-platform Development
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
@@ -293,7 +295,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ### Native Development
 
@@ -327,7 +328,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ### Cypher
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -336,7 +336,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ### Java
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -344,7 +343,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/java_basic" target="_blank" rel="noopener noreferrer">Java</a> | HackerRank |Beginner| 1 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ### JavaScript
 
@@ -355,7 +353,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
-
 ### R
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -365,7 +362,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ### Python
 
@@ -405,10 +401,11 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing" target="_blank" rel="noopener noreferrer">Digital Marketing</a> | Google | Beginner | 40 | 🏅 |
 | <a href="https://academy.sendinblue.com/course/email-marketing-course-english" target="_blank" rel="noopener noreferrer">Email Marketing</a> | SendinBlue | Beginner | 4 | 🏅 |
+| <a href="https://www.life-global.org/course/26-unique-value-proposition" target="_blank" rel="noopener noreferrer">Unique Value Proposition</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/27-your-target-audience" target="_blank" rel="noopener noreferrer">Your Target Audience</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/30-effective-business-websites" target="_blank" rel="noopener noreferrer">Effective Business Websites</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
-<!-- markdown-link-check-disable -->
 
 ### Project Management
 
@@ -417,10 +414,9 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.pmi.org/kickoff" target="_blank" rel="noopener noreferrer">KICKOFF</a><!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.msicertified.com/project-management/project-management-essentials-certified/" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | 🏅 |
+| <a href="https://www.life-global.org/course/380-agile-project-management" target="_blank" rel="noopener noreferrer">Agile Project Management</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
-<!-- markdown-link-check-enable -->
 
 ### Support
 
@@ -430,11 +426,9 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative" target="_blank" rel="noopener noreferrer">Customer Engagement Fundamentals</a>| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
 | <a href="https://www.life-global.org/course/35-customer-relationship-management" target="_blank" rel="noopener noreferrer">Customer Relationship Management</a>| HP / Life Global | Beginner | 1 | 🏅 |
 | <a href="https://www.testdome.com/tests/customer-service-test/91" target="_blank" rel="noopener noreferrer">Customer Service Test</a>| Test Dome | Intermediate | 0.15 | 🏆  |
-
-
+| <a href="https://www.life-global.org/course/390-customer-experience-(cx)-for-business-success" target="_blank" rel="noopener noreferrer">Customer Experience (CX) for Business Success</a>| HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ### Business Analytics
 
@@ -443,6 +437,41 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc" target="_blank" rel="noopener noreferrer">Business Intelligence Foundation Professional</a> | CertiProf |Beginner| 1 |🏅|
 | <a href="https://www.simplilearn.com/introduction-to-business-analysis-free-course-skillup" target="_blank" rel="noopener noreferrer">Business Analysis Basics</a> | Simplilearn |Beginner| 2 | 🏆 |
 | <a href="https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup" target="_blank" rel="noopener noreferrer">Power BI for Beginners</a> | Simplilearn |Beginner| 6 | 🏆 |
+
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+
+### Professional Development / Communication
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| <a href="https://www.life-global.org/course/414-business-email" target="_blank" rel="noopener noreferrer"> Business Email </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/343-introduction-to-digital-business-skills" target="_blank" rel="noopener noreferrer"> Introduction to Digital Business Skills </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/427-professional-networking-for-career-growth" target="_blank" rel="noopener noreferrer">Professional Networking for Career Growth</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/13-effective-leadership" target="_blank" rel="noopener noreferrer"> Effective Leadership </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+
+### Finance
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| <a href="https://www.life-global.org/course/333-circular-economy" target="_blank" rel="noopener noreferrer"> Circular Economy </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/24-cash-flow" target="_blank" rel="noopener noreferrer"> Cash Flow </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/21-basics-of-finance" target="_blank" rel="noopener noreferrer"> Basics of Finance </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/20-profit-and-loss" target="_blank" rel="noopener noreferrer"> Profit and Loss </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+
+### Entreprenuership
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| <a href="https://www.life-global.org/course/17-starting-a-small-business" target="_blank" rel="noopener noreferrer"> Starting a Small Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/28-selling-online" target="_blank" rel="noopener noreferrer"> Selling Online </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/318-social-entrepreneurship" target="_blank" rel="noopener noreferrer"> Social Entrepreneurship </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -458,7 +487,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape" target="_blank" rel="noopener noreferrer">How to Insert a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
-
 
 ### Illustrator
 
