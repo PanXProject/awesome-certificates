@@ -52,6 +52,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 - [Chatbots](#chatbots)
 - [Cloud Computing](#cloud-computing)
 - [Computer Theories and Concepts](#theories-and-concepts)
+- [Databases](#databases)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Data Science](#data-science)
 - [Design](#design)
@@ -257,6 +258,20 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank" rel="noopener noreferrer">Geospatial Analysis</a>             | Kaggle          | Intermediate | 4     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+
+## Databases
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DWW/" target="_blank" rel="noopener noreferrer">Data Warehousing Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-CMCW/" target="_blank" rel="noopener noreferrer">Collaboration, Marketplace & Cost Estimation Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DABW/" target="_blank" rel="noopener noreferrer">Data Application Builders Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DLKW/" target="_blank" rel="noopener noreferrer">Data Lake Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DNGW/" target="_blank" rel="noopener noreferrer">Data Engineering Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DSCW/" target="_blank" rel="noopener noreferrer">Data Science Workshop</a> | Snowflake |Beginner|6 | 🏅|
+
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#databases" target="_blank" rel="noopener noreferrer">⬆️</a>
+
 
 ## Data Analysis and Visualization
 
