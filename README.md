@@ -14,8 +14,8 @@
 <br/><br/>
 
 <a href="https://genbounty.com?utm_source=toolseekr&utm_medium=sponsor&utm_campaign=q1_2025&utm_content=awesome_certificates" target="_blank">
-  <img src="https://github.com/PanXProject/awesome-certificates/blob/main/media/sponsors/genbounty.png?raw=true" width="180px" alt="GenBounty Logo"/><br/><br/>
-  <strong>GenBounty</strong><br/>
+<img src="https://raw.githubusercontent.com/PanXProject/awesome-certificates/main/media/sponsors/genbounty.png" width="180px" alt="GenBounty Logo"/><br/>
+	<strong>GenBounty</strong><br/><br/>
   AI product safety testing platform with native EU AI Act compliance.
 </a>
 
@@ -24,8 +24,8 @@
 <br/><br/>
 
 <a href="https://promoat.ai?utm_source=saas_directory&utm_medium=listing&utm_campaign=beta_launch_q1&utm_content=awesome_certificates" target="_blank">
-  <img src="https://github.com/PanXProject/awesome-certificates/blob/main/media/sponsors/promoat.png?raw=true" width="180px" alt="ProMoat Logo"/><br/><br/>
-  <strong>ProMoat</strong><br/>
+<img src="https://raw.githubusercontent.com/PanXProject/awesome-certificates/main/media/sponsors/promoat.png" width="180px" alt="ProMoat Logo"/><br/>
+	<strong>ProMoat</strong><br/><br/>
   Generate AI clone videos of yourself in 3 mins.
 </a>
 
