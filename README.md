@@ -1,6 +1,51 @@
-<img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
+<img width="5" height="15" alt="image" src="https://github.com/user-attachments/assets/c10ea453-2960-45ef-8d3c-d8bf985bc112" /><img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
 
-# Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz)
+<br/><br/>
+
+<hr/>
+
+<!-- Featured Sponsors Section -->
+<div align="center">
+  
+<br/>
+
+### 💖 Our Sponsors
+
+<sub>This resource exists thanks to our awesome contributors and these sponsors:</sub>
+
+<br/><br/>
+
+<a href="https://genbounty.com?utm_source=toolseekr&utm_medium=sponsor&utm_campaign=q1_2025&utm_content=awesome_certificates" target="_blank">
+  <img src="https://github.com/PanXProject/awesome-certificates/blob/main/media/sponsors/genbounty.png" width="180px" alt="GenBounty Logo"/><br/><br/>
+  <strong>GenBounty</strong><br/>
+  AI product safety testing platform with native EU AI Act compliance.
+</a>
+
+<br/><br/>
+<sub>• • •</sub>
+<br/><br/>
+
+<a href="https://promoat.ai?utm_source=saas_directory&utm_medium=listing&utm_campaign=beta_launch_q1&utm_content=awesome_certificates" target="_blank">
+  <img src="https://github.com/PanXProject/awesome-certificates/blob/main/media/sponsors/promoat.png" width="180px" alt="ProMoat Logo"/><br/><br/>
+  <strong>ProMoat</strong><br/>
+  Generate AI clone videos of yourself in 3 mins.
+</a>
+
+<br/><br/>
+<sub>• • •</sub>
+<br/><br/>
+
+<sub><a href="https://toolseekr.com/sponsor">Become a sponsor</a></sub>
+
+<br/>
+
+</div>
+
+<hr/>
+
+<br/>
+
+# Awesome Certificates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz)
 <!-- markdown-link-check-disable -->
 
 [Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/CONTRIBUTING.md) /
@@ -51,7 +96,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
   - [Support](#support)
 - [Chatbots](#chatbots)
 - [Cloud Computing](#cloud-computing)
-- [Computer Theories and Concepts](#theories-and-concepts)
+- [Computer Theories and Concepts](#computer-theories-and-concepts)
 - [Databases](#databases)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Data Science](#data-science)
