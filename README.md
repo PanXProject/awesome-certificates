@@ -9,8 +9,6 @@
   
 <br/>
 
-### 💖 Our Sponsors
-
 <sub>This resource exists thanks to our awesome contributors and these sponsors:</sub>
 
 <br/><br/>
