@@ -1,4 +1,4 @@
-<img width="5" height="15" alt="image" src="https://github.com/user-attachments/assets/c10ea453-2960-45ef-8d3c-d8bf985bc112" /><img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
+<img alt="awesome-certificates.png" src="https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
 
 <br/><br/>
 
