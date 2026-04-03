@@ -502,6 +502,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.hackerrank.com/skills-verification/java_basic" target="_blank" rel="noopener noreferrer">Java</a> | HackerRank |Beginner| 1 | 🏆|
+| <a href="https://loiane.training/cursos/java-intermediario" target="_blank" rel="noopener noregerrer">Intermediate Java </a> | Loiane Groner | Intermediate | 8h30 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
