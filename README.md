@@ -561,7 +561,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://www.life-global.org/course/346-introduction-to-cybersecurity-awareness" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity Awareness</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://training.thexero.co.uk/p/wireless-mastery" target="_blank" rel="noopener noreferrer">Wireless Mastery</a>| TheXero Training Academy| Professional | 20 | <a href="https://training.thexero.co.uk/p/wireless-mastery" target="_blank" rel="noopener noreferrer">🏅</a>|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
