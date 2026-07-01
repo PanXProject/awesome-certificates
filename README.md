@@ -280,7 +280,6 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://cognitiveclass.ai/courses/ibm-cloud-essentials" target="_blank" rel="noopener noreferrer">IBM Cloud Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing" target="_blank" rel="noopener noreferrer">Introduction to Cloud Computing</a> | EC-Council |Beginner|3 | 🏆|
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path" target="_blank" rel="noopener noreferrer">Cloud Essentials Knowledge</a> | Amazon | Intermediate | 10 | 🏅 |
 
