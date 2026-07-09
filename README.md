@@ -549,6 +549,9 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 ## Security
 
+
+- [Courseiva](https://courseiva.com) — Free IT certification practice questions with detailed explanations for CCNA, Security+, AWS, Azure, and 100+ exams. No account required.
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity" target="_blank" rel="noopener noreferrer">Intro to Cybersecurity</a>| Cisco Networking Academy | Beginner | 15 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank" rel="noopener noreferrer">🏅</a>|
