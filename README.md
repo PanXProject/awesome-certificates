@@ -525,6 +525,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
+| <a href="https://coddy.tech/certification/python" target="_blank" rel="noopener noreferrer">Python Certification</a> | Coddy | Beginner–Intermediate | - | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
