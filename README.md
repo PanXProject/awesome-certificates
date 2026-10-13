@@ -569,6 +569,8 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/statistics-101" target="_blank" rel="noopener noreferrer">Statistics 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/statistics-101" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://university.redis.com/courses/ru101-redis-101/" target="_blank" rel="noopener noreferrer">Redis 101 (Redis Foundations)</a> | Redis University | Beginner | 4 | 🏅 |
+| <a href="https://university.redis.com/courses/ru203-querying-indexing-and-full-text-search-with-redisearch/" target="_blank" rel="noopener noreferrer">RediSearch: Querying, Indexing & Full-Text Search</a> | Redis University | Intermediate | 3 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
