@@ -174,6 +174,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/what-is-big-data" target="_blank" rel="noopener noreferrer">Big Data Foundations - Level 1</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016" target="_blank" rel="noopener noreferrer">Hadoop Foundations - Level 1</a> | IBM  / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/what-is-spark" target="_blank" rel="noopener noreferrer">Spark Fundamentals I</a> | IBM / Cognitive Class |Beginner|5 | <a href="https://www.youracclaim.com/org/ibm/badge/spark-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/course-v1:CognitiveClass+BD0101EN+v2" target="_blank" rel="noopener noreferrer">Big Data 101</a> | IBM / Cognitive Class |Beginner|3 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
