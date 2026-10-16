@@ -291,6 +291,8 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.freecodecamp.org/learn/quality-assurance/" target="_blank" rel="noopener noreferrer">Quality Assurance Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://www.browserstack.com/test-university" target="_blank" rel="noopener noreferrer">BrowserStack Test University</a> | BrowserStack |Beginner| 4 | 🏆|
+| <a href="https://www.blazemeter.com/university" target="_blank" rel="noopener noreferrer">BlazeMeter University - Performance Testing</a> | BlazeMeter |Beginner| 5 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=64" target="_blank" rel="noopener noreferrer">CS102: Introduction to Computer Science II</a> | Saylor Academy |Professional|42 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=66" target="_blank" rel="noopener noreferrer">CS201: Elementary Data Structures</a> | Saylor Academy |Professional|38 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=67" target="_blank" rel="noopener noreferrer">CS202: Discrete Structures</a> | Saylor Academy |Professional|44 | 🏆|
