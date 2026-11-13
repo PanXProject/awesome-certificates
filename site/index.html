@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free courses with certificates · PanX</title>
+<meta name="description" content="Every course on the awesome-certificates list, searchable: free courses that come with a certificate or a digital badge, by topic, provider, level and hours.">
+<meta property="og:title" content="Free courses with certificates">
+<meta property="og:description" content="The awesome-certificates list, searchable. Free courses with a certificate or badge, by topic, provider, level and hours.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://panx.io/awesome-certificates/">
+<link rel="icon" href="/assets/mark.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css?v=22">
+<script>(function(){try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}})()</script>
+<style>
+  .page { padding: clamp(48px, 7vw, 88px) 0 32px; }
+  .page h1 { font-size: clamp(2.2rem, 5.5vw, 4rem); line-height: 1.02; letter-spacing: -0.035em; max-width: 14ch; }
+  .page .lead { margin-top: 20px; max-width: 54ch; }
+  .page .meta { margin-top: 22px; display: flex; gap: 22px; flex-wrap: wrap; font-size: 13.5px; color: var(--mute); }
+  .page .meta a { color: var(--ink-2); }
+  .controls { position: sticky; top: 64px; z-index: 4; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line-2); padding: 14px 0; }
+  .controls .row { display: grid; grid-template-columns: minmax(200px, 1.6fr) repeat(5, minmax(120px, 1fr)) auto; gap: 10px; align-items: center; }
+  .controls input, .controls select { width: 100%; font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px; outline: none; appearance: none; -webkit-appearance: none; }
+  .controls select { background-image: linear-gradient(45deg, transparent 50%, var(--mute) 50%), linear-gradient(135deg, var(--mute) 50%, transparent 50%); background-position: calc(100% - 16px) 50%, calc(100% - 11px) 50%; background-size: 5px 5px; background-repeat: no-repeat; padding-right: 30px; }
+  .controls input:focus, .controls select:focus { border-color: var(--ink); }
+  .controls input::placeholder { color: var(--mute); }
+  .controls .actions { display: flex; gap: 8px; }
+  .controls button { font: inherit; font-size: 13.5px; font-weight: 500; color: var(--ink-2); background: none; border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; cursor: pointer; white-space: nowrap; }
+  .controls button:hover { color: var(--ink); border-color: var(--ink); }
+  .controls button.done { color: var(--live); border-color: var(--live); }
+  .status { display: flex; justify-content: space-between; align-items: baseline; padding: 18px 0 6px; font-size: 13px; color: var(--mute); }
+  .status b { font-weight: 500; color: var(--ink-2); }
+  .status .clear { color: var(--ink-2); cursor: pointer; background: none; border: 0; font: inherit; font-size: 13px; padding: 0; text-decoration: underline; text-underline-offset: 3px; }
+  .list { list-style: none; margin: 0 0 96px; padding: 0; }
+  .list li { display: grid; grid-template-columns: 2.2fr 1.2fr 110px 70px 120px; gap: 20px; align-items: baseline; padding: 16px 0; border-top: 1px solid var(--line-2); }
+  .list li:last-child { border-bottom: 1px solid var(--line-2); }
+  .list .head { font-size: 12.5px; color: var(--mute); border-top: 0; padding: 8px 0; }
+  .list .head span { cursor: pointer; }
+  .list .head span.on { color: var(--ink); }
+  .list .head span.on::after { content: " \2193"; }
+  .list .head span.on.asc::after { content: " \2191"; }
+  .c-name a { font-weight: 500; font-size: 15.5px; letter-spacing: -0.01em; }
+  .c-name small { display: block; margin-top: 3px; font-size: 12.5px; color: var(--mute); }
+  .c-prov { font-size: 14px; color: var(--ink-2); }
+  .c-lvl, .c-hrs { font-size: 13.5px; color: var(--ink-2); }
+  .c-hrs { font-family: var(--mono); font-size: 13px; }
+  .c-rew { font-size: 13.5px; color: var(--ink-2); display: flex; align-items: center; gap: 8px; }
+  .c-rew i { width: 7px; height: 7px; border-radius: 50%; background: var(--live); display: inline-block; flex: 0 0 7px; }
+  .c-rew.badge i { background: var(--mute); }
+  .empty { padding: 48px 0; color: var(--mute); }
+  @media (max-width: 1000px) { .controls .row { grid-template-columns: 1fr 1fr 1fr; } .controls .row .q { grid-column: 1 / -1; } }
+  @media (max-width: 860px) {
+    .controls { position: static; backdrop-filter: none; background: var(--bg); }
+    .list .head { display: none; }
+    .list li { grid-template-columns: 1fr 1fr; gap: 6px 14px; }
+    .c-name { grid-column: 1 / -1; }
+    .c-prov { grid-column: 1 / -1; }
+  }
+  @media (max-width: 480px) { .controls .row { grid-template-columns: 1fr 1fr; } .controls .actions { grid-column: 1 / -1; } }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="/"><i class="mark" aria-hidden="true"></i><span>PanX</span></a>
+    <nav>
+      <a href="/#work">Work</a>
+      <a href="/#about">About</a>
+      <a class="pill" href="https://github.com/PanXProject/awesome-certificates" rel="noopener">GitHub</a>
+      <button class="theme" type="button" aria-label="Switch between light and dark" title="Light / dark"><svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><circle cx="10" cy="10" r="7.25" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 2.75a7.25 7.25 0 0 1 0 14.5z" fill="currentColor"/></svg></button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="page">
+    <div class="wrap">
+      <p class="eyebrow">awesome-certificates &nbsp;·&nbsp; <span id="count-all">…</span> free courses</p>
+      <h1>Free courses that come with a certificate.</h1>
+      <p class="lead">Every course on the awesome-certificates list, kept by the community on GitHub since 2020. Free to take, free to earn the certificate or badge. Search it, filter it, share the link.</p>
+      <p class="meta"><span>Updated <span id="updated">…</span> from the <a href="https://github.com/PanXProject/awesome-certificates" rel="noopener">README</a></span><a href="https://github.com/PanXProject/awesome-certificates/compare" rel="noopener">Add a course &rarr;</a><a href="https://github.com/PanXProject/awesome-certificates/issues/new?template=certificate-request.md&title=%5BCERTIFICATE%5D" rel="noopener">Request one &rarr;</a></p>
+    </div>
+  </section>
+
+  <section class="controls" aria-label="Search and filters">
+    <div class="wrap row">
+      <input class="q" id="q" type="search" placeholder="Search courses, providers, topics" autocomplete="off">
+      <select id="topic" aria-label="Topic"><option value="">All topics</option></select>
+      <select id="provider" aria-label="Provider"><option value="">All providers</option></select>
+      <select id="level" aria-label="Level"><option value="">Any level</option><option>Beginner</option><option>Intermediate</option><option>Professional</option></select>
+      <select id="reward" aria-label="Reward"><option value="">Any reward</option><option value="certificate">Certificate</option><option value="badge">Digital badge</option></select>
+      <select id="hours" aria-label="Hours"><option value="">Any length</option><option value="0-1">Under 1 hour</option><option value="1-5">1 to 5 hours</option><option value="5-20">5 to 20 hours</option><option value="20-">20 hours and more</option></select>
+      <div class="actions"><button type="button" id="share">Copy link</button></div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="status"><span><b id="count">…</b> shown</span><button type="button" class="clear" id="clear" hidden>Clear filters</button></div>
+    <ol class="list" id="list">
+      <li class="head"><span data-sort="name">Course</span><span data-sort="provider">Provider</span><span data-sort="level">Level</span><span data-sort="hours">Hours</span><span>Reward</span></li>
+    </ol>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap bar">
+    <span>PanX, since 2017</span>
+    <nav>
+      <a href="mailto:yeah@panx.io">yeah@panx.io</a>
+      <a href="https://github.com/PanXProject" rel="noopener">GitHub</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var root=document.documentElement, btn=document.querySelector(".theme");
+  function current(){ var t=root.getAttribute("data-theme"); if(t) return t; return matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"; }
+  btn.addEventListener("click",function(){ var next=current()==="dark"?"light":"dark"; root.setAttribute("data-theme",next); try{localStorage.setItem("theme",next)}catch(e){} });
+
+  var $=function(id){return document.getElementById(id);};
+  var els={q:$("q"),topic:$("topic"),provider:$("provider"),level:$("level"),reward:$("reward"),hours:$("hours")};
+  var list=$("list"), head=list.querySelector(".head"), items=[], sort={key:"name",asc:true};
+  var LEVELS={Beginner:1,Intermediate:2,Professional:3};
+
+  function fill(select,values){ values.forEach(function(v){ var o=document.createElement("option"); o.value=v; o.textContent=v; select.appendChild(o); }); }
+  function readURL(){ var p=new URLSearchParams(location.search); Object.keys(els).forEach(function(k){ els[k].value=p.get(k)||""; }); var s=p.get("sort"); if(s){ sort.key=s.replace(/^-/,""); sort.asc=s[0]!=="-"; } }
+  function writeURL(){ var p=new URLSearchParams(); Object.keys(els).forEach(function(k){ if(els[k].value) p.set(k,els[k].value); }); if(!(sort.key==="name"&&sort.asc)) p.set("sort",(sort.asc?"":"-")+sort.key); var qs=p.toString(); history.replaceState(null,"",location.pathname+(qs?"?"+qs:"")); }
+  function norm(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,""); }
+  function inHours(h,range){ if(!range) return true; if(h==null) return false; var a=range.split("-"), lo=Number(a[0]||0), hi=a[1]===""?Infinity:Number(a[1]); return h>=lo && h<hi; }
+  function apply(){
+    var q=norm(els.q.value).split(/\s+/).filter(Boolean);
+    var out=items.filter(function(it){
+      if(els.topic.value && it.topic!==els.topic.value) return false;
+      if(els.provider.value && it.provider!==els.provider.value) return false;
+      if(els.level.value && it.level!==els.level.value) return false;
+      if(els.reward.value && !(it.reward===els.reward.value || it.reward==="both")) return false;
+      if(!inHours(it.hours,els.hours.value)) return false;
+      if(q.length){ var hay=norm(it.name+" "+it.provider+" "+it.topic+" "+it.sub); for(var i=0;i<q.length;i++) if(hay.indexOf(q[i])<0) return false; }
+      return true;
+    });
+    out.sort(function(a,b){ var k=sort.key, x, y;
+      if(k==="hours"){ x=a.hours==null?Infinity:a.hours; y=b.hours==null?Infinity:b.hours; }
+      else if(k==="level"){ x=LEVELS[a.level]||9; y=LEVELS[b.level]||9; }
+      else { x=norm(a[k]); y=norm(b[k]); }
+      var r=x<y?-1:x>y?1:norm(a.name)<norm(b.name)?-1:1; return sort.asc?r:-r; });
+    render(out); writeURL();
+    var active=Object.keys(els).some(function(k){return !!els[k].value;}); $("clear").hidden=!active;
+  }
+  function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); }
+  function render(out){
+    $("count").textContent=out.length+" of "+items.length;
+    var html=out.map(function(it){
+      var rew=it.reward==="both"?"Certificate and badge":it.reward==="badge"?"Digital badge":it.reward==="certificate"?"Certificate":"";
+      var name=it.url?'<a href="'+esc(it.url)+'" rel="noopener">'+esc(it.name)+'</a>':esc(it.name);
+      return '<li><span class="c-name">'+name+'<small>'+esc(it.topic)+(it.sub?' · '+esc(it.sub):'')+'</small></span>'+
+        '<span class="c-prov">'+esc(it.provider)+'</span><span class="c-lvl">'+esc(it.level||"")+'</span>'+
+        '<span class="c-hrs">'+(it.hours==null?"":it.hours)+'</span>'+
+        '<span class="c-rew '+(it.reward==="badge"?"badge":"")+'">'+(rew?'<i></i>'+rew:'')+'</span></li>';
+    }).join("");
+    list.querySelectorAll("li:not(.head)").forEach(function(n){n.remove();});
+    if(!out.length){ var e=document.createElement("li"); e.className="empty"; e.style.display="block"; e.textContent="Nothing matches. Clear a filter or try another word."; list.appendChild(e); }
+    else list.insertAdjacentHTML("beforeend",html);
+    head.querySelectorAll("span[data-sort]").forEach(function(s){ s.classList.toggle("on",s.dataset.sort===sort.key); s.classList.toggle("asc",s.dataset.sort===sort.key&&sort.asc); });
+  }
+
+  fetch("data.json",{cache:"no-cache"}).then(function(r){return r.json();}).then(function(d){
+    items=d.items; $("count-all").textContent=d.count; $("updated").textContent=d.updated;
+    fill(els.topic,Array.from(new Set(items.map(function(i){return i.topic;}))).sort());
+    fill(els.provider,Array.from(new Set(items.map(function(i){return i.provider;}))).sort(function(a,b){return norm(a)<norm(b)?-1:1;}));
+    readURL(); apply();
+  }).catch(function(){ $("count").textContent="0"; list.insertAdjacentHTML("beforeend",'<li class="empty" style="display:block">The list could not be loaded. The GitHub README is the source: github.com/PanXProject/awesome-certificates</li>'); });
+
+  Object.keys(els).forEach(function(k){ els[k].addEventListener(k==="q"?"input":"change",apply); });
+  $("clear").addEventListener("click",function(){ Object.keys(els).forEach(function(k){ els[k].value=""; }); apply(); });
+  head.addEventListener("click",function(e){ var s=e.target.closest("span[data-sort]"); if(!s) return; if(sort.key===s.dataset.sort) sort.asc=!sort.asc; else { sort.key=s.dataset.sort; sort.asc=true; } apply(); });
+  $("share").addEventListener("click",function(){ var b=this; (navigator.clipboard?navigator.clipboard.writeText(location.href):Promise.reject()).then(function(){ b.textContent="Link copied"; b.classList.add("done"); setTimeout(function(){ b.textContent="Copy link"; b.classList.remove("done"); },1800); },function(){ prompt("Copy this link", location.href); }); });
+})();
+</script>
+</body>
+</html>
