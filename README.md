@@ -187,6 +187,14 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ## Business
+### Enterprise Software
+
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| <a href="https://open.sap.com/" target="_blank" rel="noopener noreferrer">openSAP Free SAP Courses (Record of Achievement)</a> | openSAP (SAP SE) | Beginner | Self-paced | 🏆 |
+
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+
 
 ### Business Analytics
 
