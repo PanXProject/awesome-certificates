@@ -229,6 +229,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/26-unique-value-proposition" target="_blank" rel="noopener noreferrer">Unique Value Proposition</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/27-your-target-audience" target="_blank" rel="noopener noreferrer">Your Target Audience</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/30-effective-business-websites" target="_blank" rel="noopener noreferrer">Effective Business Websites</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://academy.hubspot.com/courses/sales-representative" target="_blank" rel="noopener noreferrer">Sales Representative Certification</a> | HubSpot | Beginner | 3 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
