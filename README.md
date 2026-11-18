@@ -569,6 +569,9 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/statistics-101" target="_blank" rel="noopener noreferrer">Statistics 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/statistics-101" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://www.hp-life.com/" target="_blank" rel="noopener noreferrer">HP LIFE: Introduction to Entrepreneurship</a> | HP LIFE (HP Foundation) | Beginner | 1 | 🏆 |
+| <a href="https://www.hp-life.com/" target="_blank" rel="noopener noreferrer">HP LIFE: Effective Communication</a> | HP LIFE (HP Foundation) | Beginner | 1 | 🏆 |
+| <a href="https://www.hp-life.com/" target="_blank" rel="noopener noreferrer">HP LIFE: Digital Marketing</a> | HP LIFE (HP Foundation) | Beginner | 2 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
