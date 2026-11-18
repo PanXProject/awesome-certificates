@@ -242,7 +242,10 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/13-effective-leadership" target="_blank" rel="noopener noreferrer"> Effective Leadership </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-
+| <a href="https://certmundo.com/es-mx/curso/excel-basico-curso-gratis" target="_blank" rel="noopener noreferrer"> Excel Básico </a> | Certmundo | Beginner |    1.5 | 🏆 |                
+| <a href="https://certmundo.com/es-mx/curso/como-hacer-curriculum-vitae-profesional" target="_blank" rel="noopener noreferrer"> Cómo Hacer un CV Profesional </a> | Certmundo | Beginner | 1.5 | 🏆 |                                                                                                                    
+| <a href="https://certmundo.com/es-mx/curso/contabilidad-basica-curso" target="_blank" rel="noopener noreferrer"> Contabilidad Básica </a> | Certmundo | Beginner | 1.5 | 🏆 |  
+  
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ### Project Management
@@ -486,6 +489,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=65" target="_blank" rel="noopener noreferrer">CS107: C++ Programming</a> | Saylor Academy |Professional|40 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/c_sharp_basic" target="_blank" rel="noopener noreferrer">C#</a> | HackerRank |Beginner| 1 | 🏆|
 | <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">Foundational C# with Microsoft</a> | freeCodeCamp |Beginner| 35 | 🏆|
+| <a href="https://certmundo.com/es-mx/curso/python-basico" target="_blank" rel="noopener noreferrer"> Python Básico (Spanish) </a> | Certmundo | Beginner | 2 | 🏆 |    
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
