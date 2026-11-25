@@ -181,5 +181,6 @@
   $("share").addEventListener("click",function(){ var b=this; (navigator.clipboard?navigator.clipboard.writeText(location.href):Promise.reject()).then(function(){ b.textContent="Link copied"; b.classList.add("done"); setTimeout(function(){ b.textContent="Copy link"; b.classList.remove("done"); },1800); },function(){ prompt("Copy this link", location.href); }); });
 })();
 </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "a03ce53f262c441ea6cae28df42a0451"}'></script>
 </body>
 </html>
